@@ -1,0 +1,2936 @@
+{
+    "data": {
+        "context": {
+            "status": "incomplete",
+            "sessionId": "ClQIARJQCk4KJGVlNjZhMjZhLTI5MWUtNGI2NS04ZjI0LWRhMDMzYjEyZjI5MxACGiRkZmM2ZDgyYi00OTZhLTQ3NWMtODU5OC1hMWU3NmQ4YzY0Yzc=",
+            "totalResults": 10
+        },
+        "itineraries": [
+            {
+                "id": "12409-2410081330--31664-1-11109-2410082305|11109-2410130030--31664-1-12409-2410131230",
+                "price": {
+                    "raw": 435.16,
+                    "formatted": "$436",
+                    "pricingOptionId": "uPFIOK-QfycI"
+                },
+                "legs": [
+                    {
+                        "id": "12409-2410081330--31664-1-11109-2410082305",
+                        "origin": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 635,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-08T13:30:00",
+                        "arrival": "2024-10-08T23:05:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31664,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/MF.png",
+                                    "name": "Xiamen Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "12409-17944-2410081330-2410081515--31664",
+                                "origin": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "XMN",
+                                    "displayCode": "XMN",
+                                    "parent": {
+                                        "flightPlaceId": "CXMN",
+                                        "displayCode": "XMN",
+                                        "name": "Xiamen",
+                                        "type": "City"
+                                    },
+                                    "name": "Xiamen",
+                                    "type": "Airport",
+                                    "country": "China"
+                                },
+                                "departure": "2024-10-08T13:30:00",
+                                "arrival": "2024-10-08T15:15:00",
+                                "durationInMinutes": 165,
+                                "flightNumber": "872",
+                                "marketingCarrier": {
+                                    "id": -31664,
+                                    "name": "Xiamen Airlines",
+                                    "alternateId": "MF",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31664,
+                                    "name": "Xiamen Airlines",
+                                    "alternateId": "MF",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "17944-11109-2410081745-2410082305--31664",
+                                "origin": {
+                                    "flightPlaceId": "XMN",
+                                    "displayCode": "XMN",
+                                    "parent": {
+                                        "flightPlaceId": "CXMN",
+                                        "displayCode": "XMN",
+                                        "name": "Xiamen",
+                                        "type": "City"
+                                    },
+                                    "name": "Xiamen",
+                                    "type": "Airport",
+                                    "country": "China"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "departure": "2024-10-08T17:45:00",
+                                "arrival": "2024-10-08T23:05:00",
+                                "durationInMinutes": 320,
+                                "flightNumber": "891",
+                                "marketingCarrier": {
+                                    "id": -31664,
+                                    "name": "Xiamen Airlines",
+                                    "alternateId": "MF",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31664,
+                                    "name": "Xiamen Airlines",
+                                    "alternateId": "MF",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11109-2410130030--31664-1-12409-2410131230",
+                        "origin": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 660,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-13T00:30:00",
+                        "arrival": "2024-10-13T12:30:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31664,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/MF.png",
+                                    "name": "Xiamen Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11109-17944-2410130030-2410130605--31664",
+                                "origin": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "XMN",
+                                    "displayCode": "XMN",
+                                    "parent": {
+                                        "flightPlaceId": "CXMN",
+                                        "displayCode": "XMN",
+                                        "name": "Xiamen",
+                                        "type": "City"
+                                    },
+                                    "name": "Xiamen",
+                                    "type": "Airport",
+                                    "country": "China"
+                                },
+                                "departure": "2024-10-13T00:30:00",
+                                "arrival": "2024-10-13T06:05:00",
+                                "durationInMinutes": 335,
+                                "flightNumber": "892",
+                                "marketingCarrier": {
+                                    "id": -31664,
+                                    "name": "Xiamen Airlines",
+                                    "alternateId": "MF",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31664,
+                                    "name": "Xiamen Airlines",
+                                    "alternateId": "MF",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "17944-12409-2410130830-2410131230--31664",
+                                "origin": {
+                                    "flightPlaceId": "XMN",
+                                    "displayCode": "XMN",
+                                    "parent": {
+                                        "flightPlaceId": "CXMN",
+                                        "displayCode": "XMN",
+                                        "name": "Xiamen",
+                                        "type": "City"
+                                    },
+                                    "name": "Xiamen",
+                                    "type": "Airport",
+                                    "country": "China"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "departure": "2024-10-13T08:30:00",
+                                "arrival": "2024-10-13T12:30:00",
+                                "durationInMinutes": 180,
+                                "flightNumber": "871",
+                                "marketingCarrier": {
+                                    "id": -31664,
+                                    "name": "Xiamen Airlines",
+                                    "alternateId": "MF",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31664,
+                                    "name": "Xiamen Airlines",
+                                    "alternateId": "MF",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "cheapest",
+                    "third_shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.999
+            },
+            {
+                "id": "12409-2410081110--31876-1-11109-2410082040|11109-2410131020--31876-1-12409-2410132220",
+                "price": {
+                    "raw": 484.99,
+                    "formatted": "$485",
+                    "pricingOptionId": "SS_afRfEYCep"
+                },
+                "legs": [
+                    {
+                        "id": "12409-2410081110--31876-1-11109-2410082040",
+                        "origin": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 630,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-08T11:10:00",
+                        "arrival": "2024-10-08T20:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "12409-16292-2410081110-2410081640--31876",
+                                "origin": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-08T11:10:00",
+                                "arrival": "2024-10-08T16:40:00",
+                                "durationInMinutes": 390,
+                                "flightNumber": "611",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-11109-2410081740-2410082040--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "departure": "2024-10-08T17:40:00",
+                                "arrival": "2024-10-08T20:40:00",
+                                "durationInMinutes": 180,
+                                "flightNumber": "946",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11109-2410131020--31876-1-12409-2410132220",
+                        "origin": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 660,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-13T10:20:00",
+                        "arrival": "2024-10-13T22:20:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11109-16292-2410131020-2410131305--31876",
+                                "origin": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-13T10:20:00",
+                                "arrival": "2024-10-13T13:05:00",
+                                "durationInMinutes": 165,
+                                "flightNumber": "935",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-12409-2410131445-2410132220--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "departure": "2024-10-13T14:45:00",
+                                "arrival": "2024-10-13T22:20:00",
+                                "durationInMinutes": 395,
+                                "flightNumber": "606",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 11.579359
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "second_cheapest",
+                    "second_shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.998099
+            },
+            {
+                "id": "12409-2410081750--32128-0-11109-2410082350|11109-2410132320--32128-0-12409-2410140735",
+                "price": {
+                    "raw": 876.91,
+                    "formatted": "$877",
+                    "pricingOptionId": "TGOklc21lB4y"
+                },
+                "legs": [
+                    {
+                        "id": "12409-2410081750--32128-0-11109-2410082350",
+                        "origin": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 420,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-08T17:50:00",
+                        "arrival": "2024-10-08T23:50:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32128,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/KE.png",
+                                    "name": "Korean Air"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "12409-11109-2410081750-2410082350--32128",
+                                "origin": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "departure": "2024-10-08T17:50:00",
+                                "arrival": "2024-10-08T23:50:00",
+                                "durationInMinutes": 420,
+                                "flightNumber": "629",
+                                "marketingCarrier": {
+                                    "id": -32128,
+                                    "name": "Korean Air",
+                                    "alternateId": "KE",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32128,
+                                    "name": "Korean Air",
+                                    "alternateId": "KE",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11109-2410132320--32128-0-12409-2410140735",
+                        "origin": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 435,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-13T23:20:00",
+                        "arrival": "2024-10-14T07:35:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32128,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/KE.png",
+                                    "name": "Korean Air"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11109-12409-2410132320-2410140735--32128",
+                                "origin": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "departure": "2024-10-13T23:20:00",
+                                "arrival": "2024-10-14T07:35:00",
+                                "durationInMinutes": 435,
+                                "flightNumber": "634",
+                                "marketingCarrier": {
+                                    "id": -32128,
+                                    "name": "Korean Air",
+                                    "alternateId": "KE",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32128,
+                                    "name": "Korean Air",
+                                    "alternateId": "KE",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.967682
+            },
+            {
+                "id": "12409-2410080900--31876-1-11109-2410082040|11109-2410131020--31876-1-12409-2410132220",
+                "price": {
+                    "raw": 484.99,
+                    "formatted": "$485",
+                    "pricingOptionId": "wiCGV2MVepJI"
+                },
+                "legs": [
+                    {
+                        "id": "12409-2410080900--31876-1-11109-2410082040",
+                        "origin": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 760,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-08T09:00:00",
+                        "arrival": "2024-10-08T20:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "12409-16292-2410080900-2410081420--31876",
+                                "origin": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-08T09:00:00",
+                                "arrival": "2024-10-08T14:20:00",
+                                "durationInMinutes": 380,
+                                "flightNumber": "607",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-11109-2410081740-2410082040--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "departure": "2024-10-08T17:40:00",
+                                "arrival": "2024-10-08T20:40:00",
+                                "durationInMinutes": 180,
+                                "flightNumber": "946",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11109-2410131020--31876-1-12409-2410132220",
+                        "origin": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 660,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-13T10:20:00",
+                        "arrival": "2024-10-13T22:20:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11109-16292-2410131020-2410131305--31876",
+                                "origin": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-13T10:20:00",
+                                "arrival": "2024-10-13T13:05:00",
+                                "durationInMinutes": 165,
+                                "flightNumber": "935",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-12409-2410131445-2410132220--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "departure": "2024-10-13T14:45:00",
+                                "arrival": "2024-10-13T22:20:00",
+                                "durationInMinutes": 395,
+                                "flightNumber": "606",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 13.160419
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "third_cheapest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.906639
+            },
+            {
+                "id": "12409-2410081110--31876-1-11109-2410082040|11109-2410132135--31876-1-12409-2410140950",
+                "price": {
+                    "raw": 521.64,
+                    "formatted": "$522",
+                    "pricingOptionId": "bSQ4w_7HPIz0"
+                },
+                "legs": [
+                    {
+                        "id": "12409-2410081110--31876-1-11109-2410082040",
+                        "origin": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 630,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-08T11:10:00",
+                        "arrival": "2024-10-08T20:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "12409-16292-2410081110-2410081640--31876",
+                                "origin": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-08T11:10:00",
+                                "arrival": "2024-10-08T16:40:00",
+                                "durationInMinutes": 390,
+                                "flightNumber": "611",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-11109-2410081740-2410082040--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "departure": "2024-10-08T17:40:00",
+                                "arrival": "2024-10-08T20:40:00",
+                                "durationInMinutes": 180,
+                                "flightNumber": "946",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11109-2410132135--31876-1-12409-2410140950",
+                        "origin": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 675,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-13T21:35:00",
+                        "arrival": "2024-10-14T09:50:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11109-16292-2410132135-2410140010--31876",
+                                "origin": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-13T21:35:00",
+                                "arrival": "2024-10-14T00:10:00",
+                                "durationInMinutes": 155,
+                                "flightNumber": "947",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-12409-2410140225-2410140950--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "departure": "2024-10-14T02:25:00",
+                                "arrival": "2024-10-14T09:50:00",
+                                "durationInMinutes": 385,
+                                "flightNumber": "612",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 11.579359
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.891197
+            },
+            {
+                "id": "12409-2410082350--31876-1-11109-2410090950|11109-2410131020--31876-1-12409-2410132220",
+                "price": {
+                    "raw": 549.85,
+                    "formatted": "$550",
+                    "pricingOptionId": "AOWbTXoLutBe"
+                },
+                "legs": [
+                    {
+                        "id": "12409-2410082350--31876-1-11109-2410090950",
+                        "origin": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 660,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-08T23:50:00",
+                        "arrival": "2024-10-09T09:50:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -31757,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/TR.png",
+                                    "name": "Scoot"
+                                }
+                            ],
+                            "operationType": "partially_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "12409-16292-2410082350-2410090510--31876",
+                                "origin": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-08T23:50:00",
+                                "arrival": "2024-10-09T05:10:00",
+                                "durationInMinutes": 380,
+                                "flightNumber": "605",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-11109-2410090710-2410090950--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "departure": "2024-10-09T07:10:00",
+                                "arrival": "2024-10-09T09:50:00",
+                                "durationInMinutes": 160,
+                                "flightNumber": "8600",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31757,
+                                    "name": "Scoot",
+                                    "alternateId": "TR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11109-2410131020--31876-1-12409-2410132220",
+                        "origin": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 660,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-13T10:20:00",
+                        "arrival": "2024-10-13T22:20:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11109-16292-2410131020-2410131305--31876",
+                                "origin": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-13T10:20:00",
+                                "arrival": "2024-10-13T13:05:00",
+                                "durationInMinutes": 165,
+                                "flightNumber": "935",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-12409-2410131445-2410132220--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "departure": "2024-10-13T14:45:00",
+                                "arrival": "2024-10-13T22:20:00",
+                                "durationInMinutes": 395,
+                                "flightNumber": "606",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 8.921623
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.88403
+            },
+            {
+                "id": "12409-2410080900--31876-1-11109-2410081835|11109-2410131020--31876-1-12409-2410132220",
+                "price": {
+                    "raw": 549.85,
+                    "formatted": "$550",
+                    "pricingOptionId": "exg_sOhQ3pkw"
+                },
+                "legs": [
+                    {
+                        "id": "12409-2410080900--31876-1-11109-2410081835",
+                        "origin": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 635,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-08T09:00:00",
+                        "arrival": "2024-10-08T18:35:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -31757,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/TR.png",
+                                    "name": "Scoot"
+                                }
+                            ],
+                            "operationType": "partially_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "12409-16292-2410080900-2410081420--31876",
+                                "origin": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-08T09:00:00",
+                                "arrival": "2024-10-08T14:20:00",
+                                "durationInMinutes": 380,
+                                "flightNumber": "607",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-11109-2410081550-2410081835--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "departure": "2024-10-08T15:50:00",
+                                "arrival": "2024-10-08T18:35:00",
+                                "durationInMinutes": 165,
+                                "flightNumber": "8588",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31757,
+                                    "name": "Scoot",
+                                    "alternateId": "TR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11109-2410131020--31876-1-12409-2410132220",
+                        "origin": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 660,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-13T10:20:00",
+                        "arrival": "2024-10-13T22:20:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11109-16292-2410131020-2410131305--31876",
+                                "origin": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-13T10:20:00",
+                                "arrival": "2024-10-13T13:05:00",
+                                "durationInMinutes": 165,
+                                "flightNumber": "935",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-12409-2410131445-2410132220--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "departure": "2024-10-13T14:45:00",
+                                "arrival": "2024-10-13T22:20:00",
+                                "durationInMinutes": 395,
+                                "flightNumber": "606",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 11.5952015
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.846624
+            },
+            {
+                "id": "12409-2410082350--31876-1-11109-2410090950|11109-2410132135--31876-1-12409-2410140950",
+                "price": {
+                    "raw": 586.49,
+                    "formatted": "$587",
+                    "pricingOptionId": "43MfLc6SMgSX"
+                },
+                "legs": [
+                    {
+                        "id": "12409-2410082350--31876-1-11109-2410090950",
+                        "origin": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 660,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-08T23:50:00",
+                        "arrival": "2024-10-09T09:50:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -31757,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/TR.png",
+                                    "name": "Scoot"
+                                }
+                            ],
+                            "operationType": "partially_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "12409-16292-2410082350-2410090510--31876",
+                                "origin": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-08T23:50:00",
+                                "arrival": "2024-10-09T05:10:00",
+                                "durationInMinutes": 380,
+                                "flightNumber": "605",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-11109-2410090710-2410090950--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "departure": "2024-10-09T07:10:00",
+                                "arrival": "2024-10-09T09:50:00",
+                                "durationInMinutes": 160,
+                                "flightNumber": "8600",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31757,
+                                    "name": "Scoot",
+                                    "alternateId": "TR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11109-2410132135--31876-1-12409-2410140950",
+                        "origin": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 675,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-13T21:35:00",
+                        "arrival": "2024-10-14T09:50:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11109-16292-2410132135-2410140010--31876",
+                                "origin": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-13T21:35:00",
+                                "arrival": "2024-10-14T00:10:00",
+                                "durationInMinutes": 155,
+                                "flightNumber": "947",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-12409-2410140225-2410140950--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "departure": "2024-10-14T02:25:00",
+                                "arrival": "2024-10-14T09:50:00",
+                                "durationInMinutes": 385,
+                                "flightNumber": "612",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 8.921623
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.812351
+            },
+            {
+                "id": "12409-2410080900--31876-1-11109-2410082040|11109-2410132135--31876-1-12409-2410140950",
+                "price": {
+                    "raw": 521.64,
+                    "formatted": "$522",
+                    "pricingOptionId": "tOUdN0T8W80u"
+                },
+                "legs": [
+                    {
+                        "id": "12409-2410080900--31876-1-11109-2410082040",
+                        "origin": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 760,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-08T09:00:00",
+                        "arrival": "2024-10-08T20:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "12409-16292-2410080900-2410081420--31876",
+                                "origin": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-08T09:00:00",
+                                "arrival": "2024-10-08T14:20:00",
+                                "durationInMinutes": 380,
+                                "flightNumber": "607",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-11109-2410081740-2410082040--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "departure": "2024-10-08T17:40:00",
+                                "arrival": "2024-10-08T20:40:00",
+                                "durationInMinutes": 180,
+                                "flightNumber": "946",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11109-2410132135--31876-1-12409-2410140950",
+                        "origin": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 675,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-13T21:35:00",
+                        "arrival": "2024-10-14T09:50:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11109-16292-2410132135-2410140010--31876",
+                                "origin": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-13T21:35:00",
+                                "arrival": "2024-10-14T00:10:00",
+                                "durationInMinutes": 155,
+                                "flightNumber": "947",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-12409-2410140225-2410140950--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "departure": "2024-10-14T02:25:00",
+                                "arrival": "2024-10-14T09:50:00",
+                                "durationInMinutes": 385,
+                                "flightNumber": "612",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 13.160419
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.808554
+            },
+            {
+                "id": "12409-2410082350--31876-1-11109-2410090950|11109-2410131935--31876-1-12409-2410140745",
+                "price": {
+                    "raw": 593.16,
+                    "formatted": "$594",
+                    "pricingOptionId": "jg-rLYwvIYam"
+                },
+                "legs": [
+                    {
+                        "id": "12409-2410082350--31876-1-11109-2410090950",
+                        "origin": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 660,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-08T23:50:00",
+                        "arrival": "2024-10-09T09:50:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -31757,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/TR.png",
+                                    "name": "Scoot"
+                                }
+                            ],
+                            "operationType": "partially_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "12409-16292-2410082350-2410090510--31876",
+                                "origin": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-08T23:50:00",
+                                "arrival": "2024-10-09T05:10:00",
+                                "durationInMinutes": 380,
+                                "flightNumber": "605",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-11109-2410090710-2410090950--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "departure": "2024-10-09T07:10:00",
+                                "arrival": "2024-10-09T09:50:00",
+                                "durationInMinutes": 160,
+                                "flightNumber": "8600",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31757,
+                                    "name": "Scoot",
+                                    "alternateId": "TR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11109-2410131935--31876-1-12409-2410140745",
+                        "origin": {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)",
+                            "displayCode": "DPS",
+                            "city": "Denpasar",
+                            "country": "Indonesia",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport",
+                            "displayCode": "ICN",
+                            "city": "Seoul",
+                            "country": "South Korea",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 670,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-13T19:35:00",
+                        "arrival": "2024-10-14T07:45:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31876,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                                    "name": "Singapore Airlines"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -31757,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/TR.png",
+                                    "name": "Scoot"
+                                }
+                            ],
+                            "operationType": "partially_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11109-16292-2410131935-2410132210--31876",
+                                "origin": {
+                                    "flightPlaceId": "DPS",
+                                    "displayCode": "DPS",
+                                    "parent": {
+                                        "flightPlaceId": "DPSI",
+                                        "displayCode": "DPS",
+                                        "name": "Denpasar",
+                                        "type": "City"
+                                    },
+                                    "name": "Bali (Denpasar)",
+                                    "type": "Airport",
+                                    "country": "Indonesia"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "departure": "2024-10-13T19:35:00",
+                                "arrival": "2024-10-13T22:10:00",
+                                "durationInMinutes": 155,
+                                "flightNumber": "8589",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31757,
+                                    "name": "Scoot",
+                                    "alternateId": "TR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "16292-12409-2410140010-2410140745--31876",
+                                "origin": {
+                                    "flightPlaceId": "SIN",
+                                    "displayCode": "SIN",
+                                    "parent": {
+                                        "flightPlaceId": "SINS",
+                                        "displayCode": "SIN",
+                                        "name": "Singapore",
+                                        "type": "City"
+                                    },
+                                    "name": "Singapore Changi",
+                                    "type": "Airport",
+                                    "country": "Singapore"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "ICN",
+                                    "displayCode": "ICN",
+                                    "parent": {
+                                        "flightPlaceId": "SELA",
+                                        "displayCode": "SEL",
+                                        "name": "Seoul",
+                                        "type": "City"
+                                    },
+                                    "name": "Incheon International Airport",
+                                    "type": "Airport",
+                                    "country": "South Korea"
+                                },
+                                "departure": "2024-10-14T00:10:00",
+                                "arrival": "2024-10-14T07:45:00",
+                                "durationInMinutes": 395,
+                                "flightNumber": "608",
+                                "marketingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31876,
+                                    "name": "Singapore Airlines",
+                                    "alternateId": "SQ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 8.937466
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.799507
+            }
+        ],
+        "messages": [],
+        "filterStats": {
+            "duration": {
+                "min": 435,
+                "max": 760,
+                "multiCityMin": 855,
+                "multiCityMax": 1435
+            },
+            "airports": [
+                {
+                    "city": "Denpasar",
+                    "airports": [
+                        {
+                            "id": "DPS",
+                            "entityId": "95673809",
+                            "name": "Bali (Denpasar)"
+                        }
+                    ]
+                },
+                {
+                    "city": "Seoul",
+                    "airports": [
+                        {
+                            "id": "ICN",
+                            "entityId": "95673659",
+                            "name": "Incheon International Airport"
+                        }
+                    ]
+                }
+            ],
+            "carriers": [
+                {
+                    "id": -32128,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/KE.png",
+                    "name": "Korean Air"
+                },
+                {
+                    "id": -31876,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/SQ.png",
+                    "name": "Singapore Airlines"
+                },
+                {
+                    "id": -31664,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/MF.png",
+                    "name": "Xiamen Airlines"
+                }
+            ],
+            "stopPrices": {
+                "direct": {
+                    "isPresent": true,
+                    "formattedPrice": "$877"
+                },
+                "one": {
+                    "isPresent": true,
+                    "formattedPrice": "$436"
+                },
+                "twoOrMore": {
+                    "isPresent": false
+                }
+            }
+        },
+        "flightsSessionId": "ee66a26a-291e-4b65-8f24-da033b12f293",
+        "destinationImageUrl": "https://content.skyscnr.com/m/3719e8f4a5daf43d/original/Flights-Placeholder.jpg",
+        "token": "eyJhIjoxLCJjIjpudWxsLCJpIjpudWxsLCJjYyI6ImVjb25vbXkiLCJvIjoiSUNOIiwiZCI6IkRQUyIsImQxIjoiMjAyNC0xMC0wOCIsImQyIjoiMjAyNC0xMC0xMyJ9"
+    },
+    "status": true,
+    "message": "Successful"
+}

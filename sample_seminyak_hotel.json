@@ -1,0 +1,2457 @@
+{
+    "data": {
+        "results": {
+            "priceType": "PRICE_PER_NIGHT",
+            "pricePolicy": "Taxes and fees not included",
+            "searchSummary": {
+                "total": 209,
+                "filteredTotal": 209,
+                "inboundTotal": 209,
+                "resultsSummary": "Taxes and fees not included | 209 results sorted by Best",
+                "sortBy": "-relevance",
+                "entity": {
+                    "entityId": "45513179",
+                    "entityType": "City",
+                    "name": "Seminyak",
+                    "coordinates": {
+                        "latitude": -8.6898061784,
+                        "longitude": 115.1666188601
+                    },
+                    "levelOfEntityType": "PoliticalTypes"
+                },
+                "location": [
+                    {
+                        "entityId": "44292244",
+                        "entityType": "FirstLevelNationAdministrativeDivision",
+                        "name": "Bali"
+                    },
+                    {
+                        "entityId": "29475321",
+                        "entityType": "Nation",
+                        "name": "Indonesia"
+                    }
+                ]
+            },
+            "mapBoundary": {
+                "north": -8.68127685,
+                "east": 115.17911407999999,
+                "south": -8.700396665,
+                "west": 115.15815992
+            },
+            "hotelsRegion": {
+                "latitude": -8.6927115,
+                "longitude": 115.16754605,
+                "longitudeDelta": 0.015473900000007916,
+                "latitudeDelta": 0.017021000000000612
+            },
+            "hotelCards": [
+                {
+                    "id": "eyJlbnRpdHlJZCI6IjQ1NTEzMTc5IiwiaWQiOiIyMTMyNzM2OTAifQ==",
+                    "name": "Amanlane Suite Seminyak Managed by Arm Hospitality",
+                    "stars": "3",
+                    "distance": "0.81 miles from downtown",
+                    "relevantPoiDistance": "1.45 miles from Seminyak Beach",
+                    "coordinates": {
+                        "latitude": -8.691986,
+                        "longitude": 115.178338
+                    },
+                    "pivot": false,
+                    "images": [
+                        "https://content.skyscnr.com/available/1100780822/1100780822_WxH.jpg",
+                        "https://content.skyscnr.com/available/1450719952/1450719952_WxH.jpg",
+                        "https://content.skyscnr.com/available/1466763400/1466763400_WxH.jpg"
+                    ],
+                    "reviewsSummary": null,
+                    "confidentMessages": [],
+                    "minPriceDbookRoomId": null,
+                    "minPriceDbookPartnerId": null,
+                    "inbound": true,
+                    "lowestPrice": {
+                        "price": "$13",
+                        "rawPrice": 13,
+                        "partnerId": "h_ad",
+                        "partnerType": "OTA",
+                        "partnerName": "Agoda",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_ad.png",
+                        "isOfficial": false,
+                        "funnelType": "meta",
+                        "cug": null,
+                        "discount": null,
+                        "amenities": []
+                    },
+                    "otherPrices": [],
+                    "isUpSorted": false,
+                    "hotelId": "213273690"
+                },
+                {
+                    "id": "eyJlbnRpdHlJZCI6IjQ1NTEzMTc5IiwiaWQiOiIxNjA4MDA2MDEifQ==",
+                    "name": "Singgah Hotel Seminyak",
+                    "stars": "4",
+                    "distance": "0.19 miles from downtown",
+                    "relevantPoiDistance": "0.74 miles from Seminyak Beach",
+                    "coordinates": {
+                        "latitude": -8.6922,
+                        "longitude": 115.167988
+                    },
+                    "pivot": false,
+                    "images": [
+                        "https://content.skyscnr.com/available/1388470881/1388470881_WxH.jpg",
+                        "https://content.skyscnr.com/available/1194748231/1194748231_WxH.jpg",
+                        "https://content.skyscnr.com/available/1242789081/1242789081_WxH.jpg"
+                    ],
+                    "reviewsSummary": {
+                        "score": 3.5,
+                        "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-64600-4.svg",
+                        "scoreDesc": "Good",
+                        "total": 37,
+                        "mostPopularWith": null
+                    },
+                    "confidentMessages": [],
+                    "minPriceDbookRoomId": "ewogICJhZHVsdHMiOiBudWxsLAogICJhdXRob3JpemF0aW9uX2luZm8iOiBbCiAgICB7CiAgICAgICJDb2RlIjogIlB1YmxpY1BhcmFtZXRlciIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBR1dSVVcrQ01CU0YvMHRmSjh0dHFjaDhRNXdaQ2NsTTBLZXhMSlZXMTFncEtXV0pNZjczWFVDM0I1TSs5SDZuN2JuMzlFSVMyUmxQNW9TU0NVbHQzZXJXcTdvNnI1MjJUdnN6S2d5VmJMRjlzMTZabFRaZU9ZU1hraVJhbG1ST1dRU3pTVW5TYjFVZHMzb3B2RUphRWdhTUJ6QUw0S1VrZC9tOTh3ODZoVkczWGUzZE9iVnlsTGZGaUoxdDIyMnIzQUJYU1Y2OGpyeHJ2VDBwdDNhMlVjNmZVZjdBbHU1bGlpNEg2M29NazMrY0RRMXpmdjFFbU50S21ORk0xVjgzdjdVUmZtL2RhY0NpbHM3MlE2SlFqTU9HTk9iVC9zbkNkcTVTRDhlMnd6Rmt4bWhSVjZycjYrc1k0TnEyMlJLakc5d0MwVFNJYzJ3MGNVNy9DTFBSSjlXbi9aZmJockU1QUs1bkFIaUNHSGQ0UTJqWi8xYWZPbGE2V1JoYkhXL3BaVExINzBNNWlsQXo5akQ0VWJ6T1lEYWpRZjgyVENHbUVESkdBODVCVEpuWXg3c3E1ampheTI0bmFVUkRMbm00NTF5UjZ5OVRYcE1XSHdJQUFBPT0iCiAgICB9LAogICAgewogICAgICAiQ29kZSI6ICJNaW5QcmljZV9QYXJ0bmVyX2RhdGEiLAogICAgICAiVmFsdWUiOiAiSDRzSUFBQUFBQUFBQUUyUFRXK0RNQXlHLzB2T0ZNV0pRMEt2YXcrOVRaMTI0eEkrRndrQ2dqQXhWZnozT1V6ZGR2VGo5OE4rc01INTE5bFZ6YzIzSXp1elJ4SEpGTWs4amtQQnprVHNaM2NRbWdBaEZUb3BXQWgybzFsZ3FqTWFvOWpWUHdKUUp0UGFSR3BETS9YV0h4c2VYV093L1c5V2hwVEZKZWJIS2t6TEZCTWgxU2kxTVlxZ3JkYytSTzhlRlc1b2xtQ0hxQUlOQ3FSU0NJTEgvakRicWpscUNnYWNjOEcxaHBQZ0FybmlCcmdVQWs2STNDcGhXMU5XQmtGQ1hwWTFaQ0N4UnRraTBrMDdTMWpydGp2ZGZmWEJoUy82bjQyejY1eTMvY3M2ejQydmlMSGI1VTdLNStLNlZSL1dkdzNkbVZJM1lwNndhbDNDT1B5enZMOWQyQlAvR1hRcWhEUnEzNzhCTm9Ba0Y0b0JBQUE9IgogICAgfSwKICAgIHsKICAgICAgIkNvZGUiOiAiRml4Q2hhbmdlUmF0ZSIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBS3RXOGkvS1RNL01TOHh4TGkwcVNzMUxybFN5VXZKMENWTFNVZkxOekFzb3lreE9EY3JQendVS0dwb1lHcHBhbUptYld3RGwwRFc1VmlSbkpPYWxwd0xWR2VnWkdCaVltRmdDVlRtWEZwZms1NllXSVJrZEd1eUNSUUpKdTdtZWtaR3hoYWxTTFFCR2xnaFdtZ0FBQUE9PSIKICAgIH0KICBdLAogICJtaW5pX3ByaWNlX3Jvb21faWQiOiAiMTQxMTU4Njc3OCIsCiAgInJhdGVfaWQiOiAiMTQxMTU4Njc3OCIKfQ==",
+                    "minPriceDbookPartnerId": "d_ct",
+                    "inbound": true,
+                    "lowestPrice": {
+                        "price": "$16",
+                        "rawPrice": 16,
+                        "partnerId": "d_ct",
+                        "partnerType": "OTA",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "isOfficial": false,
+                        "funnelType": "dbook",
+                        "cug": {
+                            "rawType": "general",
+                            "type": "general",
+                            "discountBadge": "16% off",
+                            "label": null,
+                            "originalPrice": "$19",
+                            "discountPercentage": 16
+                        },
+                        "discount": null,
+                        "amenities": []
+                    },
+                    "otherPrices": [],
+                    "isUpSorted": false,
+                    "hotelId": "160800601"
+                },
+                {
+                    "id": "eyJlbnRpdHlJZCI6IjQ1NTEzMTc5IiwiaWQiOiIyMTM5MjIyOTUifQ==",
+                    "name": "Cove Renata Seminyak",
+                    "stars": "4",
+                    "distance": "0.24 miles from downtown",
+                    "relevantPoiDistance": "0.89 miles from Seminyak Beach",
+                    "coordinates": {
+                        "latitude": -8.688445,
+                        "longitude": 115.169936
+                    },
+                    "pivot": false,
+                    "images": [
+                        "https://content.skyscnr.com/available/1354464556/1354464556_WxH.jpg",
+                        "https://content.skyscnr.com/available/1134040942/1134040942_WxH.jpg",
+                        "https://content.skyscnr.com/available/1332104144/1332104144_WxH.jpg"
+                    ],
+                    "reviewsSummary": {
+                        "score": 4.4,
+                        "imageUrl": "",
+                        "scoreDesc": "Very Good",
+                        "total": 5,
+                        "mostPopularWith": null
+                    },
+                    "confidentMessages": [],
+                    "minPriceDbookRoomId": null,
+                    "minPriceDbookPartnerId": null,
+                    "inbound": true,
+                    "lowestPrice": {
+                        "price": "$16",
+                        "rawPrice": 16,
+                        "partnerId": "h_pr",
+                        "partnerType": "OTA",
+                        "partnerName": "Priceline",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_pr.png",
+                        "isOfficial": false,
+                        "funnelType": "meta",
+                        "cug": null,
+                        "discount": null,
+                        "amenities": []
+                    },
+                    "otherPrices": [],
+                    "isUpSorted": false,
+                    "hotelId": "213922295"
+                },
+                {
+                    "id": "eyJlbnRpdHlJZCI6IjQ1NTEzMTc5IiwiaWQiOiIxMzYzMDA3NjUifQ==",
+                    "name": "Sense Sunset Hotel Seminyak",
+                    "stars": "4",
+                    "distance": "0.34 miles from downtown",
+                    "relevantPoiDistance": "0.99 miles from Seminyak Beach",
+                    "coordinates": {
+                        "latitude": -8.688201,
+                        "longitude": 115.171283
+                    },
+                    "pivot": false,
+                    "images": [
+                        "https://content.skyscnr.com/available/1491818253/1491818253_WxH.jpg",
+                        "https://content.skyscnr.com/available/1303297056/1303297056_WxH.jpg",
+                        "https://content.skyscnr.com/available/1242787131/1242787131_WxH.jpg"
+                    ],
+                    "reviewsSummary": {
+                        "score": 3.5,
+                        "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-64600-4.svg",
+                        "scoreDesc": "Good",
+                        "total": 511,
+                        "mostPopularWith": null
+                    },
+                    "confidentMessages": [],
+                    "minPriceDbookRoomId": null,
+                    "minPriceDbookPartnerId": null,
+                    "inbound": true,
+                    "lowestPrice": {
+                        "price": "$18",
+                        "rawPrice": 18,
+                        "partnerId": "h_tt",
+                        "partnerType": "OTA",
+                        "partnerName": "Algotels",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_tt.png",
+                        "isOfficial": false,
+                        "funnelType": "meta",
+                        "cug": null,
+                        "discount": null,
+                        "amenities": []
+                    },
+                    "otherPrices": [],
+                    "isUpSorted": false,
+                    "hotelId": "136300765"
+                },
+                {
+                    "id": "eyJlbnRpdHlJZCI6IjQ1NTEzMTc5IiwiaWQiOiIxMzc1NTkxMTYifQ==",
+                    "name": "Hotel Dafam Savvoya Seminyak",
+                    "stars": "3",
+                    "distance": "0.48 miles from downtown",
+                    "relevantPoiDistance": "0.90 miles from Seminyak Beach",
+                    "coordinates": {
+                        "latitude": -8.682857,
+                        "longitude": 115.167202
+                    },
+                    "pivot": false,
+                    "images": [
+                        "https://content.skyscnr.com/available/1462942307/1462942307_WxH.jpg",
+                        "https://content.skyscnr.com/available/1381625051/1381625051_WxH.jpg",
+                        "https://content.skyscnr.com/available/1242492843/1242492843_WxH.jpg"
+                    ],
+                    "reviewsSummary": {
+                        "score": 4,
+                        "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-64600-4.svg",
+                        "scoreDesc": "Very Good",
+                        "total": 244,
+                        "mostPopularWith": null
+                    },
+                    "confidentMessages": [
+                        {
+                            "type": "location",
+                            "score": 4.5,
+                            "icon": "thumbs-up",
+                            "message": "Hotel location is rated 4.5/5"
+                        }
+                    ],
+                    "minPriceDbookRoomId": null,
+                    "minPriceDbookPartnerId": null,
+                    "inbound": true,
+                    "lowestPrice": {
+                        "price": "$17",
+                        "rawPrice": 17,
+                        "partnerId": "h_pr",
+                        "partnerType": "OTA",
+                        "partnerName": "Priceline",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_pr.png",
+                        "isOfficial": false,
+                        "funnelType": "meta",
+                        "cug": null,
+                        "discount": null,
+                        "amenities": [
+                            {
+                                "key": "free_cancellation",
+                                "text": "Free cancellation"
+                            }
+                        ]
+                    },
+                    "otherPrices": [],
+                    "isUpSorted": false,
+                    "hotelId": "137559116"
+                },
+                {
+                    "id": "eyJlbnRpdHlJZCI6IjQ1NTEzMTc5IiwiaWQiOiIxMzExOTA4NzEifQ==",
+                    "name": "Bali Yarra Villas Seminyak",
+                    "stars": "3",
+                    "distance": "0.36 miles from downtown",
+                    "relevantPoiDistance": "0.73 miles from Seminyak Beach",
+                    "coordinates": {
+                        "latitude": -8.695049,
+                        "longitude": 115.167135
+                    },
+                    "pivot": false,
+                    "images": [
+                        "https://content.skyscnr.com/available/1276521857/1276521857_WxH.jpg",
+                        "https://content.skyscnr.com/available/1382738498/1382738498_WxH.jpg",
+                        "https://content.skyscnr.com/available/1382738471/1382738471_WxH.jpg"
+                    ],
+                    "reviewsSummary": {
+                        "score": 4.5,
+                        "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-64600-4.svg",
+                        "scoreDesc": "Excellent",
+                        "total": 465,
+                        "mostPopularWith": null
+                    },
+                    "confidentMessages": [
+                        {
+                            "type": "location",
+                            "score": 4.5,
+                            "icon": "thumbs-up",
+                            "message": "Hotel location is rated 4.5/5"
+                        }
+                    ],
+                    "minPriceDbookRoomId": null,
+                    "minPriceDbookPartnerId": null,
+                    "inbound": true,
+                    "lowestPrice": {
+                        "price": "$20",
+                        "rawPrice": 20,
+                        "partnerId": "h_pr",
+                        "partnerType": "OTA",
+                        "partnerName": "Priceline",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_pr.png",
+                        "isOfficial": false,
+                        "funnelType": "meta",
+                        "cug": null,
+                        "discount": null,
+                        "amenities": [
+                            {
+                                "key": "free_cancellation",
+                                "text": "Free cancellation"
+                            }
+                        ]
+                    },
+                    "otherPrices": [],
+                    "isUpSorted": false,
+                    "hotelId": "131190871"
+                },
+                {
+                    "id": "eyJlbnRpdHlJZCI6IjQ1NTEzMTc5IiwiaWQiOiIxMjkyMjkwMTYifQ==",
+                    "name": "HARRIS Hotel Seminyak",
+                    "stars": "4",
+                    "distance": "0.19 miles from downtown",
+                    "relevantPoiDistance": "0.47 miles from Seminyak Beach",
+                    "coordinates": {
+                        "latitude": -8.6895168,
+                        "longitude": 115.1638091
+                    },
+                    "pivot": false,
+                    "images": [
+                        "https://content.skyscnr.com/available/1187940996/1187940996_WxH.jpg",
+                        "https://content.skyscnr.com/available/1187941371/1187941371_WxH.jpg",
+                        "https://content.skyscnr.com/available/686451129/686451129_WxH.jpg"
+                    ],
+                    "reviewsSummary": {
+                        "score": 4,
+                        "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-64600-4.svg",
+                        "scoreDesc": "Very Good",
+                        "total": 1841,
+                        "mostPopularWith": "Great for business travelers"
+                    },
+                    "confidentMessages": [],
+                    "minPriceDbookRoomId": null,
+                    "minPriceDbookPartnerId": null,
+                    "inbound": true,
+                    "lowestPrice": {
+                        "price": "$32",
+                        "rawPrice": 32,
+                        "partnerId": "h_tt",
+                        "partnerType": "OTA",
+                        "partnerName": "Algotels",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_tt.png",
+                        "isOfficial": false,
+                        "funnelType": "meta",
+                        "cug": {
+                            "rawType": "general",
+                            "type": "general",
+                            "discountBadge": "16% off",
+                            "label": null,
+                            "originalPrice": "$38",
+                            "discountPercentage": 16
+                        },
+                        "discount": null,
+                        "amenities": []
+                    },
+                    "otherPrices": [],
+                    "isUpSorted": false,
+                    "hotelId": "129229016"
+                },
+                {
+                    "id": "eyJlbnRpdHlJZCI6IjQ1NTEzMTc5IiwiaWQiOiIxMDUxNTY2NTMifQ==",
+                    "name": "Horison Ultima Seminyak Bali",
+                    "stars": "4",
+                    "distance": "0.47 miles from downtown",
+                    "relevantPoiDistance": "0.72 miles from Seminyak Beach",
+                    "coordinates": {
+                        "latitude": -8.696628,
+                        "longitude": 115.166111
+                    },
+                    "pivot": false,
+                    "images": [
+                        "https://content.skyscnr.com/available/1395415082/1395415082_WxH.jpg",
+                        "https://content.skyscnr.com/available/1200219683/1200219683_WxH.jpg",
+                        "https://content.skyscnr.com/available/1395415247/1395415247_WxH.jpg"
+                    ],
+                    "reviewsSummary": {
+                        "score": 4.2,
+                        "imageUrl": "",
+                        "scoreDesc": "Very Good",
+                        "total": 102,
+                        "mostPopularWith": "Great for business travelers"
+                    },
+                    "confidentMessages": [],
+                    "minPriceDbookRoomId": "ewogICJhZHVsdHMiOiAyLAogICJhdXRob3JpemF0aW9uX2luZm8iOiBbCiAgICB7CiAgICAgICJDb2RlIjogIlB1YmxpY1BhcmFtZXRlciIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBR1dSelU3RE1CQ0UzOFZYV3JTMlExTjZLeTJJU0pXSVZIb2lDRG1PQ3hadXR0bzRTQlhxdTdOTytEa2c1WkQ5SnZHTWR6N0ZzdWxERkFzaHhVU3NzTzE4RjExclR5VjVKQjlQckNoV2lwdmRQVVlYN255SWpoaCtWbUxwbTBvc3BKcEJQcW5FNnMzWjk2SmRtK2lZVmtLQnlxYVFUK0c2RWoveVF4Ly82UkpHSGZzMjBtbUZ6U2p2dGlNbTdMcGQ1MmlBZDh2TjluYmtmUmZ4NEtna1BEcUtKNWFmT05MUHVHS1hWNlNFWWZLSGl5RndscDJmR1c3UW1qQ2F1ZmJsMjY4TUp1NlJEZ00yYlVPWUxzbkNkcnlzbHZQc0toMjV4WjZzKy9mWmJ2aU1XUWpldE5iMWFUNlBDeXl4SzlhOHVzRnRhbzVIeGhzT3VpVHlIeVk4K29OTDIvN2R5eVBNRmdEOFhBTEFCY3o1amY4b0hYWFljajNXalRVUUgxR3NCMWRRY2toaFVxZE1WSEkydmtuMXBwcDQ4c2ViZ1BiOWU5MUZzK0crV1o3TldBdjRPZ1NVN0tjZ3orVTBoWUVybUV2UVN2R1kxN3JSKzNtZDV5clQwdFdnTSszMkZ1cEc2OXBhY2Y0Q2xrcDdQMUFDQUFBPSIKICAgIH0sCiAgICB7CiAgICAgICJDb2RlIjogIk1pblByaWNlX1BhcnRuZXJfZGF0YSIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBRTJRdTA3RE1CU0czK1hNSlRxWE9FNjdsZzRzQ0lFWWtMSTRUbElzSlU2VXVxaW95cnRqdDBRdy90OS84Wkd2TURqL01qdmJQdmx1aEIxY3EwU21ST1p4SENyWVJXSytqamNTRlplNHFTQUVjMGxDY3labDFDbnFta2dvVjFJVVFqcFAxSVIyNm8yL08zUnpOSExxajhIMDY2UWdaOXVpNUdKN241NU9VOXJtakxSbTJxcmZwZHRLQmNoVVFVU21PZmNoNVpaVWNrTjdDbVpJUmRLa1NKVEtpWXZVRGJPeGE1a1FrVkZyZW1Ea0hCV1doTUljcGE2bGthNnM0NU81VUZ1ajVOSjJGdXRHcExhMmdnVTIwTG5MYTd6azRJTUwzL0ZuWUp6ZDBYblQ3OC96M0hvYkdleWZQMkp5TlE0WCsybjhzWTFuYmNDZVQyRWMvbVhmM3g1aHhYOUpuVEZMcVpibEI2d1FTSXFkQVFBQSIKICAgIH0sCiAgICB7CiAgICAgICJDb2RlIjogIkZpeENoYW5nZVJhdGUiLAogICAgICAiVmFsdWUiOiAiSDRzSUFBQUFBQUFBQUt0VzhpL0tUTS9NUzh4eExpMHFTczFMcmxTeVVuTDJpMVRTVWZMTnpBc295a3hPRGNyUHp3VUtHcHFZR3B1WkdSdWFtd0RsMERXNVZpUm5KT2FscDRMVUFhV2RTNHRMOG5OVGk1RE1EQTEyd1NLQnBNOWN6OGpJMk1KVXFSWUFUSGl5RjVNQUFBQT0iCiAgICB9CiAgXSwKICAibWluaV9wcmljZV9yb29tX2lkIjogIjE0NTM2NjMxNzQiLAogICJyYXRlX2lkIjogIjE0NTM2NjMxNzQiCn0=",
+                    "minPriceDbookPartnerId": "d_ct",
+                    "inbound": true,
+                    "lowestPrice": {
+                        "price": "$32",
+                        "rawPrice": 32,
+                        "partnerId": "d_ct",
+                        "partnerType": "OTA",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "isOfficial": false,
+                        "funnelType": "dbook",
+                        "cug": {
+                            "rawType": "general",
+                            "type": "general",
+                            "discountBadge": "9% off",
+                            "label": null,
+                            "originalPrice": "$35",
+                            "discountPercentage": 9
+                        },
+                        "discount": null,
+                        "amenities": [
+                            {
+                                "key": "free_cancellation",
+                                "text": "Free cancellation"
+                            }
+                        ]
+                    },
+                    "otherPrices": [],
+                    "isUpSorted": false,
+                    "hotelId": "105156653"
+                },
+                {
+                    "id": "eyJlbnRpdHlJZCI6IjQ1NTEzMTc5IiwiaWQiOiIyMDM5NTE5ODgifQ==",
+                    "name": "Lloyd's Inn Bali",
+                    "stars": "4",
+                    "distance": "0.50 miles from downtown",
+                    "relevantPoiDistance": "0.60 miles from Seminyak Beach",
+                    "coordinates": {
+                        "latitude": -8.696621,
+                        "longitude": 115.163948
+                    },
+                    "pivot": false,
+                    "images": [
+                        "https://content.skyscnr.com/available/1352694956/1352694956_WxH.jpg",
+                        "https://content.skyscnr.com/available/1390400225/1390400225_WxH.jpg",
+                        "https://content.skyscnr.com/available/1200400878/1200400878_WxH.jpg"
+                    ],
+                    "reviewsSummary": {
+                        "score": 4.5,
+                        "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-64600-4.svg",
+                        "scoreDesc": "Excellent",
+                        "total": 448,
+                        "mostPopularWith": null
+                    },
+                    "confidentMessages": [
+                        {
+                            "type": "location",
+                            "score": 4.5,
+                            "icon": "thumbs-up",
+                            "message": "Hotel location is rated 4.5/5"
+                        }
+                    ],
+                    "minPriceDbookRoomId": null,
+                    "minPriceDbookPartnerId": null,
+                    "inbound": true,
+                    "lowestPrice": {
+                        "price": "$36",
+                        "rawPrice": 36,
+                        "partnerId": "h_pr",
+                        "partnerType": "OTA",
+                        "partnerName": "Priceline",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_pr.png",
+                        "isOfficial": false,
+                        "funnelType": "meta",
+                        "cug": null,
+                        "discount": null,
+                        "amenities": []
+                    },
+                    "otherPrices": [],
+                    "isUpSorted": false,
+                    "hotelId": "203951988"
+                },
+                {
+                    "id": "eyJlbnRpdHlJZCI6IjQ1NTEzMTc5IiwiaWQiOiIxODc2OTEyMDYifQ==",
+                    "name": "Amasya Villas",
+                    "stars": "5",
+                    "distance": "0.65 miles from downtown",
+                    "relevantPoiDistance": "0.49 miles from Seminyak Beach",
+                    "coordinates": {
+                        "latitude": -8.684273,
+                        "longitude": 115.158936
+                    },
+                    "pivot": false,
+                    "images": [
+                        "https://content.skyscnr.com/available/1304029651/1304029651_WxH.jpg",
+                        "https://content.skyscnr.com/available/1304029835/1304029835_WxH.jpg",
+                        "https://content.skyscnr.com/available/1340661746/1340661746_WxH.jpg"
+                    ],
+                    "reviewsSummary": {
+                        "score": 3.5,
+                        "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-64600-4.svg",
+                        "scoreDesc": "Good",
+                        "total": 143,
+                        "mostPopularWith": "Great for families"
+                    },
+                    "confidentMessages": [
+                        {
+                            "type": "location",
+                            "score": 4.5,
+                            "icon": "thumbs-up",
+                            "message": "Hotel location is rated 4.5/5"
+                        }
+                    ],
+                    "minPriceDbookRoomId": null,
+                    "minPriceDbookPartnerId": null,
+                    "inbound": true,
+                    "lowestPrice": {
+                        "price": "$52",
+                        "rawPrice": 52,
+                        "partnerId": "h_ad",
+                        "partnerType": "OTA",
+                        "partnerName": "Agoda",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_ad.png",
+                        "isOfficial": false,
+                        "funnelType": "meta",
+                        "cug": null,
+                        "discount": null,
+                        "amenities": [
+                            {
+                                "key": "free_cancellation",
+                                "text": "Free cancellation"
+                            }
+                        ]
+                    },
+                    "otherPrices": [],
+                    "isUpSorted": false,
+                    "hotelId": "187691206"
+                },
+                {
+                    "id": "eyJlbnRpdHlJZCI6IjQ1NTEzMTc5IiwiaWQiOiIxMTYyODIxNTEifQ==",
+                    "name": "Jas Boutique Villas",
+                    "stars": "4",
+                    "distance": "0.51 miles from downtown",
+                    "relevantPoiDistance": "0.96 miles from Seminyak Beach",
+                    "coordinates": {
+                        "latitude": -8.696279,
+                        "longitude": 115.170193
+                    },
+                    "pivot": false,
+                    "images": [
+                        "https://content.skyscnr.com/available/1364642854/1364642854_WxH.jpg",
+                        "https://content.skyscnr.com/available/721554132/721554132_WxH.jpg",
+                        "https://content.skyscnr.com/available/956192635/956192635_WxH.jpg"
+                    ],
+                    "reviewsSummary": {
+                        "score": 4,
+                        "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-64600-4.svg",
+                        "scoreDesc": "Very Good",
+                        "total": 516,
+                        "mostPopularWith": null
+                    },
+                    "confidentMessages": [],
+                    "minPriceDbookRoomId": "ewogICJhZHVsdHMiOiBudWxsLAogICJhdXRob3JpemF0aW9uX2luZm8iOiBbCiAgICB7CiAgICAgICJDb2RlIjogIlB1YmxpY1BhcmFtZXRlciIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBR1dSVVd1RE1CU0YvMHRlVjhlTlduVjlzM1psZ2pEQitqVEhTRTNhaGFaR1loeEk2WC9mVmR2dG9aQ0gzTzhrT2ZlZVhFak1lMlhKaWxDeUlJbHVPdGxaMGRSRGJxUTIwZzZvdUtpazYvSk5XNkcyVWxsaEVGNHFFa3Rla1JWMUF3Z1hGVW0rUlgxS213MnpBbWxGWEhCOUIwSUhYaXB5bDk5Nys2QlRtSFhkTjlZTWllYXpYQll6TnJycnlrNllDVzdqckhpZGVkOVpmUlltTjdvVnhnNG9mMkJMOXpKQmw2TTJJNGJGUDA2bmhuMy8rb2t3MHpWVHM1bG92bTUrdVdMMm9NMTV3cXpoUm85RG9sRE13M28wOHBmams0WHVUUzBlanBYVE1XUktTZGJVb2gvcjZ4eGdycnQwZzlGTmJnNXJXOFFaTmhvYkkzK1kyc216R05QK3kyVUh3UW9BMXpNQVBFR0VPN3pCSkI5L2Ewd2RLOW11bGE1UHQvUlNudUgzb1J3RXFDbDluUHdvWG5jaERLa3p2ZzFMaUNoNHJrc2Qrc0o5ZHZBQ3NmZHdLaDZ3V2tTQ2hveEc0UUVpc1NmWFgwZm82aDRmQWdBQSIKICAgIH0sCiAgICB7CiAgICAgICJDb2RlIjogIk1pblByaWNlX1BhcnRuZXJfZGF0YSIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBRTJRelc3Q1FBeUUzOFZuaU96OVRiZ1dEdHdxcXQ1eVdaSU5ySlJzb3JCVVZDanZYbThrMmg3OWVXWTg4aE9HRU4vbjBQaGo3RWJZd2JQT1pNcGtIc2VoaGgwVDkzVlpDVTlLWWFHclRRMHB1UWZQWkV3aExjOVpIZHBNeUtDMWlDZ3pkY2xQdll2clJwRWdraWl5ZTB5dS84MDBPVk1ZYTNBTm5tNVR6cWtLSlFWcG94bTY5dDRuaHJoa1JSajhMYmxoVlZuU0pMWG03RXJsM2V3YXYxNnJnYmlFNEM2MEZTZ1VhaXdKcFJDMHBhcFZycFBHbjJXcGRHdllVbnF5amtyYlllblBOU3l3Z1M0OFRsei9FRk5JMy93SEdPZHdDZEgxYi9kNTlyRmhCc2Y5aVpXdnhlSFJYRjI4ZU81WjhHMmxxZzAwOTFzYWgzK1d6NDg5dlBDZndSWkN5Rkl2eXc5SWI4Y3JrZ0VBQUE9PSIKICAgIH0sCiAgICB7CiAgICAgICJDb2RlIjogIkZpeENoYW5nZVJhdGUiLAogICAgICAiVmFsdWUiOiAiSDRzSUFBQUFBQUFBQUt0VzhpL0tUTS9NUzh4eExpMHFTczFMcmxTeVV2SjBDVkxTVWZMTnpBc295a3hPRGNyUHp3VUtHaHFhR1ppYkd4Z1lHQVBsMERXNVZpUm5KT2FscHdMVkdlZ0IxWmlZV0FKVk9aY1dsK1RucGhZaEdSMGE3SUpGQWttN3VaNlJrYkdGcVZJdEFLR0pmWGVhQUFBQSIKICAgIH0KICBdLAogICJtaW5pX3ByaWNlX3Jvb21faWQiOiAiMTE2MDc3MDAwMyIsCiAgInJhdGVfaWQiOiAiMTE2MDc3MDAwMyIKfQ==",
+                    "minPriceDbookPartnerId": "d_ct",
+                    "inbound": true,
+                    "lowestPrice": {
+                        "price": "$50",
+                        "rawPrice": 50,
+                        "partnerId": "d_ct",
+                        "partnerType": "OTA",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "isOfficial": false,
+                        "funnelType": "dbook",
+                        "cug": {
+                            "rawType": "general",
+                            "type": "general",
+                            "discountBadge": "6% off",
+                            "label": null,
+                            "originalPrice": "$53",
+                            "discountPercentage": 6
+                        },
+                        "discount": null,
+                        "amenities": [
+                            {
+                                "key": "free_cancellation",
+                                "text": "Free cancellation"
+                            }
+                        ]
+                    },
+                    "otherPrices": [],
+                    "isUpSorted": false,
+                    "hotelId": "116282151"
+                },
+                {
+                    "id": "eyJlbnRpdHlJZCI6IjQ1NTEzMTc5IiwiaWQiOiIxNTg0NTIwODYifQ==",
+                    "name": "IZE Seminyak by LifestyleRetreats",
+                    "stars": "4",
+                    "distance": "0.56 miles from downtown",
+                    "relevantPoiDistance": "0.53 miles from Seminyak Beach",
+                    "coordinates": {
+                        "latitude": -8.684285,
+                        "longitude": 115.160529
+                    },
+                    "pivot": false,
+                    "images": [
+                        "https://content.skyscnr.com/available/1316756651/1316756651_WxH.jpg",
+                        "https://content.skyscnr.com/available/1316756580/1316756580_WxH.jpg",
+                        "https://content.skyscnr.com/available/1272206092/1272206092_WxH.jpg"
+                    ],
+                    "reviewsSummary": {
+                        "score": 4.5,
+                        "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-64600-4.svg",
+                        "scoreDesc": "Excellent",
+                        "total": 1808,
+                        "mostPopularWith": null
+                    },
+                    "confidentMessages": [
+                        {
+                            "type": "location",
+                            "score": 4.5,
+                            "icon": "thumbs-up",
+                            "message": "Hotel location is rated 4.5/5"
+                        }
+                    ],
+                    "minPriceDbookRoomId": null,
+                    "minPriceDbookPartnerId": null,
+                    "inbound": true,
+                    "lowestPrice": {
+                        "price": "$55",
+                        "rawPrice": 55,
+                        "partnerId": "h_ad",
+                        "partnerType": "OTA",
+                        "partnerName": "Agoda",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_ad.png",
+                        "isOfficial": false,
+                        "funnelType": "meta",
+                        "cug": {
+                            "rawType": "general",
+                            "type": "general",
+                            "discountBadge": "49% off",
+                            "label": null,
+                            "originalPrice": "$107",
+                            "discountPercentage": 49
+                        },
+                        "discount": null,
+                        "amenities": []
+                    },
+                    "otherPrices": [],
+                    "isUpSorted": false,
+                    "hotelId": "158452086"
+                },
+                {
+                    "id": "eyJlbnRpdHlJZCI6IjQ1NTEzMTc5IiwiaWQiOiIyMTMwNDIwMDQifQ==",
+                    "name": "TS Suites Bali",
+                    "stars": "5",
+                    "distance": "0.59 miles from downtown",
+                    "relevantPoiDistance": "1.03 miles from Seminyak Beach",
+                    "coordinates": {
+                        "latitude": -8.697222,
+                        "longitude": 115.170952
+                    },
+                    "pivot": false,
+                    "images": [
+                        "https://content.skyscnr.com/available/1301524966/1301524966_WxH.jpg",
+                        "https://content.skyscnr.com/available/1301524801/1301524801_WxH.jpg",
+                        "https://content.skyscnr.com/available/1301524712/1301524712_WxH.jpg"
+                    ],
+                    "reviewsSummary": {
+                        "score": 4.5,
+                        "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-64600-4.svg",
+                        "scoreDesc": "Excellent",
+                        "total": 1356,
+                        "mostPopularWith": null
+                    },
+                    "confidentMessages": [],
+                    "minPriceDbookRoomId": null,
+                    "minPriceDbookPartnerId": null,
+                    "inbound": true,
+                    "lowestPrice": {
+                        "price": "$83",
+                        "rawPrice": 83,
+                        "partnerId": "h_tt",
+                        "partnerType": "OTA",
+                        "partnerName": "Algotels",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_tt.png",
+                        "isOfficial": false,
+                        "funnelType": "meta",
+                        "cug": null,
+                        "discount": null,
+                        "amenities": []
+                    },
+                    "otherPrices": [],
+                    "isUpSorted": false,
+                    "hotelId": "213042004"
+                },
+                {
+                    "id": "eyJlbnRpdHlJZCI6IjQ1NTEzMTc5IiwiaWQiOiI0NzE4NDc5OCJ9",
+                    "name": "Cross Paasha Bali Seminyak",
+                    "stars": "5",
+                    "distance": "0.63 miles from downtown",
+                    "relevantPoiDistance": "0.50 miles from Seminyak Beach",
+                    "coordinates": {
+                        "latitude": -8.684271,
+                        "longitude": 115.15927
+                    },
+                    "pivot": false,
+                    "images": [
+                        "https://content.skyscnr.com/available/956206956/956206956_WxH.jpg",
+                        "https://content.skyscnr.com/available/721931572/721931572_WxH.jpg",
+                        "https://content.skyscnr.com/available/956206950/956206950_WxH.jpg"
+                    ],
+                    "reviewsSummary": {
+                        "score": 4.5,
+                        "imageUrl": "",
+                        "scoreDesc": "Excellent",
+                        "total": 28,
+                        "mostPopularWith": null
+                    },
+                    "confidentMessages": [
+                        {
+                            "type": "location",
+                            "score": 4.6,
+                            "icon": "thumbs-up",
+                            "message": "Hotel location is rated 4.6/5"
+                        }
+                    ],
+                    "minPriceDbookRoomId": "ewogICJhZHVsdHMiOiBudWxsLAogICJhdXRob3JpemF0aW9uX2luZm8iOiBbCiAgICB7CiAgICAgICJDb2RlIjogIlB1YmxpY1BhcmFtZXRlciIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBR1dSWFd1RE1CU0cvMHR1VjhkSjZsZDdaKzNLQkdHQzlXcU9rV25haGFaR1loeEk2WC9mVWR2dG91Q0Y1M21TbkpNM0Z4TFZ2YkprVFNoWmtGZzNuZXlzYUtvaE0xSWJhUWMwREUyeUtWNjFGV29ubFJVRzRhVWtrYXhMc3FiTWgyQlJrdmhiVktlazJYSXJrSmFFQVhNZENCeFlsZVN1MzNyNzRDbk1YdmVOTlVPczYxa1grWXlON3JxaUUyYUN1eWpOWDJiZWQxYWZoY21NYm9XeEErcDNIT2xleHRqbHFNMklZZkdQazJsZzE3MStJRXgxeGRYY1REU2Z0MzZaNHZhZ3pYbkN2S21OSGkrSklwOHZ1NlNoNjQxSDVybzNsWGhZVmt6TGtDa2xlVk9KZnF5dmM0Q1o3cEl0UmpkMWMzamJJazV4ME1nWStjUFZYcDdGbVBaZkxudncxd0Q0UFFQQUU0VDRoenU0ck1mWEdsUEhTcllicGF2VExiMmtUdkg1VVBzK09xV1BVeitLMnhrRUFYWEdzOEdEa01LU01lcTRvZ0x3WEpkeHpNU2ozdGNockZaUUwwVW8vQ0FRbEZ4L0FTV2plUW9mQWdBQSIKICAgIH0sCiAgICB7CiAgICAgICJDb2RlIjogIk1pblByaWNlX1BhcnRuZXJfZGF0YSIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBRTJRUVcvQ01BeUYvNHZQVU5sTzBnU3Vnd08zaVdtM1hySTBRS1EyclVxWW1GRC8rNUpLMVhaOG45OTd0dnlDUHNUM0tUaC9pcGNCOXZCcUNoa0xtWWFoYjJDZmlmMitMaVFydzFoeHZXa2dKZnZNV2dpdURHWmQzS0hOaEpTUU84MWM2MEp0OG1ObjR6SXB0alFrMjYxbEpGRlVMTmpVckpiSzhUNW1yQXhWUWlzcGwyTGJQcnBVMG5PeGhON2ZrKzJMalRRcEVrcEpZakpsTmxubmwwVU5FQ0l5YWsxYlJwYW8wQkFLWnRwSzd4QnpOVnVTVXBINnVoaTN3MVo0NDJ1dFBUVXd3d1l1NFhuT2x4OWpDdWtudndDR0tWeER0TjNiWTVwOGRKbkI2WERPem5Wd2ZMcWJqVmVmNzZ6eWJpbDNHM0NQZXhyNmY1SFBqd09zK0MrZ0syWmgxRHovQXJNMVlRT05BUUFBIgogICAgfSwKICAgIHsKICAgICAgIkNvZGUiOiAiRml4Q2hhbmdlUmF0ZSIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBS3RXOGkvS1RNL01TOHh4TGkwcVNzMUxybFN5VXZKMENWTFNVZkxOekFzb3lreE9EY3JQendVS0dwb2FtMWlhR3htWm1RUGwwRFc1VmlSbkpPYWxwd0xWR2VnWkdCaVltRmdDVlRtWEZwZms1NllXSVJrZEd1eUNSUUpKdTdtZWtaR3hoYWxTTFFDQUpGMFhtZ0FBQUE9PSIKICAgIH0KICBdLAogICJtaW5pX3ByaWNlX3Jvb21faWQiOiAiMTUzNDk3MjI2NyIsCiAgInJhdGVfaWQiOiAiMTUzNDk3MjI2NyIKfQ==",
+                    "minPriceDbookPartnerId": "d_ct",
+                    "inbound": true,
+                    "lowestPrice": {
+                        "price": "$94",
+                        "rawPrice": 94,
+                        "partnerId": "d_ct",
+                        "partnerType": "OTA",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "isOfficial": false,
+                        "funnelType": "dbook",
+                        "cug": {
+                            "rawType": "general",
+                            "type": "general",
+                            "discountBadge": "50% off",
+                            "label": null,
+                            "originalPrice": "$188",
+                            "discountPercentage": 50
+                        },
+                        "discount": null,
+                        "amenities": [
+                            {
+                                "key": "breakfast_included",
+                                "text": "Breakfast included"
+                            }
+                        ]
+                    },
+                    "otherPrices": [],
+                    "isUpSorted": false,
+                    "hotelId": "47184798"
+                },
+                {
+                    "id": "eyJlbnRpdHlJZCI6IjQ1NTEzMTc5IiwiaWQiOiIxNTQ2MTQ2OTEifQ==",
+                    "name": "Kunti Villas",
+                    "stars": "5",
+                    "distance": "0.71 miles from downtown",
+                    "relevantPoiDistance": "1.37 miles from Seminyak Beach",
+                    "coordinates": {
+                        "latitude": -8.687645,
+                        "longitude": 115.176845
+                    },
+                    "pivot": false,
+                    "images": [
+                        "https://content.skyscnr.com/available/1214530844/1214530844_WxH.jpg",
+                        "https://content.skyscnr.com/available/1483303055/1483303055_WxH.jpg",
+                        "https://content.skyscnr.com/available/1214530937/1214530937_WxH.jpg"
+                    ],
+                    "reviewsSummary": {
+                        "score": 4,
+                        "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-64600-4.svg",
+                        "scoreDesc": "Very Good",
+                        "total": 148,
+                        "mostPopularWith": "Great for families"
+                    },
+                    "confidentMessages": [],
+                    "minPriceDbookRoomId": null,
+                    "minPriceDbookPartnerId": null,
+                    "inbound": true,
+                    "lowestPrice": {
+                        "price": "$101",
+                        "rawPrice": 101,
+                        "partnerId": "h_tt",
+                        "partnerType": "OTA",
+                        "partnerName": "Algotels",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_tt.png",
+                        "isOfficial": false,
+                        "funnelType": "meta",
+                        "cug": null,
+                        "discount": null,
+                        "amenities": []
+                    },
+                    "otherPrices": [],
+                    "isUpSorted": false,
+                    "hotelId": "154614691"
+                }
+            ],
+            "filters": [
+                {
+                    "type": "price_buckets",
+                    "title": "Price",
+                    "values": [
+                        {
+                            "id": "PR_BK_0",
+                            "label": "PR_BK_0",
+                            "minPrice": 0,
+                            "maxPrice": 50,
+                            "count": 56,
+                            "uniqueId": "price_buckets_PR_BK_0"
+                        },
+                        {
+                            "id": "PR_BK_1",
+                            "label": "PR_BK_1",
+                            "minPrice": 50,
+                            "maxPrice": 100,
+                            "count": 39,
+                            "uniqueId": "price_buckets_PR_BK_1"
+                        },
+                        {
+                            "id": "PR_BK_2",
+                            "label": "PR_BK_2",
+                            "minPrice": 100,
+                            "maxPrice": 150,
+                            "count": 39,
+                            "uniqueId": "price_buckets_PR_BK_2"
+                        },
+                        {
+                            "id": "PR_BK_3",
+                            "label": "PR_BK_3",
+                            "minPrice": 150,
+                            "maxPrice": 200,
+                            "count": 33,
+                            "uniqueId": "price_buckets_PR_BK_3"
+                        },
+                        {
+                            "id": "PR_BK_4",
+                            "label": "PR_BK_4",
+                            "minPrice": 200,
+                            "maxPrice": 250,
+                            "count": 18,
+                            "uniqueId": "price_buckets_PR_BK_4"
+                        },
+                        {
+                            "id": "PR_BK_5",
+                            "label": "PR_BK_5",
+                            "minPrice": 250,
+                            "maxPrice": null,
+                            "count": 24,
+                            "uniqueId": "price_buckets_PR_BK_5"
+                        }
+                    ]
+                },
+                {
+                    "title": "Book with peace of mind",
+                    "type": "confident_type",
+                    "values": [
+                        {
+                            "id": "free_cancellation",
+                            "uniqueId": "cancellation_free_cancellation",
+                            "count": 173,
+                            "label": "Free cancellation"
+                        },
+                        {
+                            "id": "RoomRates_option_payOnArrival",
+                            "uniqueId": "pay_type_RoomRates_option_payOnArrival",
+                            "count": 36,
+                            "label": "Pay on arrival"
+                        }
+                    ]
+                },
+                {
+                    "type": "stars",
+                    "title": "Star rating",
+                    "values": [
+                        {
+                            "id": "5",
+                            "label": "5 stars",
+                            "icon": "star",
+                            "count": 35,
+                            "uniqueId": "stars_5"
+                        },
+                        {
+                            "id": "4",
+                            "label": "4 stars",
+                            "icon": "star",
+                            "count": 60,
+                            "uniqueId": "stars_4"
+                        },
+                        {
+                            "id": "3",
+                            "label": "3 stars",
+                            "icon": "star",
+                            "count": 50,
+                            "uniqueId": "stars_3"
+                        },
+                        {
+                            "id": "2",
+                            "label": "2 stars",
+                            "icon": "star",
+                            "count": 6,
+                            "uniqueId": "stars_2"
+                        },
+                        {
+                            "id": "1",
+                            "label": "1 star",
+                            "icon": "star",
+                            "count": 2,
+                            "uniqueId": "stars_1"
+                        },
+                        {
+                            "id": "no_stars",
+                            "label": "Unrated",
+                            "icon": null,
+                            "count": 56,
+                            "uniqueId": "stars_no_stars"
+                        }
+                    ]
+                },
+                {
+                    "type": "meal_plan",
+                    "title": "Meal plan",
+                    "values": [
+                        {
+                            "id": "breakfast_included",
+                            "label": "Breakfast included",
+                            "count": 115,
+                            "uniqueId": "meal_plan_breakfast_included"
+                        },
+                        {
+                            "id": "RoomRates_label_mealsNotIncluded",
+                            "label": "Meals not included",
+                            "count": 159,
+                            "uniqueId": "meal_plan_RoomRates_label_mealsNotIncluded"
+                        }
+                    ]
+                },
+                {
+                    "type": "rating",
+                    "title": "Guest rating",
+                    "values": [
+                        {
+                            "id": "3",
+                            "label": "3+ Satisfactory",
+                            "count": 4,
+                            "uniqueId": "rating_3"
+                        },
+                        {
+                            "id": "3.5",
+                            "label": "3.5+ Good",
+                            "count": 9,
+                            "uniqueId": "rating_3.5"
+                        },
+                        {
+                            "id": "4",
+                            "label": "4+ Very Good",
+                            "count": 36,
+                            "uniqueId": "rating_4"
+                        },
+                        {
+                            "id": "4.5",
+                            "label": "4.5+ Excellent",
+                            "count": 50,
+                            "uniqueId": "rating_4.5"
+                        },
+                        {
+                            "id": "5",
+                            "label": "5+ Outstanding",
+                            "count": 24,
+                            "uniqueId": "rating_5"
+                        }
+                    ]
+                },
+                {
+                    "type": "guest_type",
+                    "title": "Popular with",
+                    "values": [
+                        {
+                            "id": "business",
+                            "label": "Business travelers",
+                            "count": 6,
+                            "uniqueId": "guest_type_business"
+                        },
+                        {
+                            "id": "couple",
+                            "label": "Couples",
+                            "count": 15,
+                            "uniqueId": "guest_type_couple"
+                        },
+                        {
+                            "id": "family",
+                            "label": "Families",
+                            "count": 20,
+                            "uniqueId": "guest_type_family"
+                        },
+                        {
+                            "id": "solo",
+                            "label": "Solo travelers",
+                            "count": 0,
+                            "uniqueId": "guest_type_solo"
+                        }
+                    ]
+                },
+                {
+                    "type": "chain",
+                    "title": "Hotel chain",
+                    "values": [
+                        {
+                            "id": "OTA3MTg2ODg=",
+                            "label": "InterContinental Hotels Group",
+                            "count": 1,
+                            "uniqueId": "chain_90718688"
+                        },
+                        {
+                            "id": "OTA3MTgzMzg=",
+                            "label": "Marriott International",
+                            "count": 1,
+                            "uniqueId": "chain_90718338"
+                        },
+                        {
+                            "id": "OTA3MTgzNTA=",
+                            "label": "Design",
+                            "count": 1,
+                            "uniqueId": "chain_90718350"
+                        },
+                        {
+                            "id": "MTEzOTE0ODgx",
+                            "label": "The Leading Hotels of the World",
+                            "count": 1,
+                            "uniqueId": "chain_113914881"
+                        },
+                        {
+                            "id": "OTA3MTg1MTU=",
+                            "label": "Oberoi",
+                            "count": 1,
+                            "uniqueId": "chain_90718515"
+                        },
+                        {
+                            "id": "MjAzNzEyNzk5",
+                            "label": "OYO",
+                            "count": 1,
+                            "uniqueId": "chain_203712799"
+                        }
+                    ]
+                },
+                {
+                    "type": "cancellation",
+                    "title": "Cancellation policy",
+                    "values": [
+                        {
+                            "id": "free_cancellation",
+                            "label": "Free cancellation",
+                            "count": 173,
+                            "uniqueId": "cancellation_free_cancellation"
+                        },
+                        {
+                            "id": "refundable",
+                            "label": "Refundable",
+                            "count": 5,
+                            "uniqueId": "cancellation_refundable"
+                        },
+                        {
+                            "id": "non_refundable",
+                            "label": "Non-Refundable",
+                            "count": 158,
+                            "uniqueId": "cancellation_non_refundable"
+                        }
+                    ]
+                },
+                {
+                    "type": "amenities",
+                    "title": "Amenities",
+                    "values": [
+                        {
+                            "id": "WifiService",
+                            "label": "WiFi",
+                            "icon": "wifi",
+                            "count": 184,
+                            "uniqueId": "amenities_WifiService"
+                        },
+                        {
+                            "id": "Parking",
+                            "label": "Parking",
+                            "icon": "parking",
+                            "count": 163,
+                            "uniqueId": "amenities_Parking"
+                        },
+                        {
+                            "id": "AirConditioning",
+                            "label": "Air conditioning",
+                            "icon": "aircon",
+                            "count": 186,
+                            "uniqueId": "amenities_AirConditioning"
+                        },
+                        {
+                            "id": "AirportShuttleService",
+                            "label": "Airport Shuttle",
+                            "icon": "bus",
+                            "count": 153,
+                            "uniqueId": "amenities_AirportShuttleService"
+                        },
+                        {
+                            "id": "Pool",
+                            "label": "Pool",
+                            "icon": "long-arrow-right",
+                            "count": 163,
+                            "uniqueId": "amenities_Pool"
+                        },
+                        {
+                            "id": "FitnessCenter",
+                            "label": "Fitness Center",
+                            "icon": "health-fitness",
+                            "count": 27,
+                            "uniqueId": "amenities_FitnessCenter"
+                        },
+                        {
+                            "id": "Spa",
+                            "label": "Spa",
+                            "icon": "hotels--jacuzzi",
+                            "count": 83,
+                            "uniqueId": "amenities_Spa"
+                        },
+                        {
+                            "id": "FrontDesk24hService",
+                            "label": "24-hour Front Desk Service",
+                            "icon": "services",
+                            "count": 114,
+                            "uniqueId": "amenities_FrontDesk24hService"
+                        },
+                        {
+                            "id": "Restaurant",
+                            "label": "Restaurant",
+                            "icon": "meal",
+                            "count": 77,
+                            "uniqueId": "amenities_Restaurant"
+                        },
+                        {
+                            "id": "NonSmokingService",
+                            "label": "Non-smoking",
+                            "icon": "hotels--smoking",
+                            "count": 152,
+                            "uniqueId": "amenities_NonSmokingService"
+                        },
+                        {
+                            "id": "Bathtub",
+                            "label": "Bathtub",
+                            "icon": "onsen",
+                            "count": 4,
+                            "uniqueId": "amenities_Bathtub"
+                        },
+                        {
+                            "id": "Laundry",
+                            "label": "Laundry",
+                            "icon": "cloakroom",
+                            "count": 142,
+                            "uniqueId": "amenities_Laundry"
+                        },
+                        {
+                            "id": "Kitchen",
+                            "label": "Kitchen",
+                            "icon": "food",
+                            "count": 48,
+                            "uniqueId": "amenities_Kitchen"
+                        },
+                        {
+                            "id": "PetsAllowedService",
+                            "label": "Pets allowed",
+                            "icon": "hotels--pets-allowed",
+                            "count": 6,
+                            "uniqueId": "amenities_PetsAllowedService"
+                        },
+                        {
+                            "id": "Television",
+                            "label": "Television",
+                            "icon": "media",
+                            "count": 58,
+                            "uniqueId": "amenities_Television"
+                        },
+                        {
+                            "id": "BabySittingService",
+                            "label": "Baby-sitting",
+                            "icon": "baby-carriage",
+                            "count": 83,
+                            "uniqueId": "amenities_BabySittingService"
+                        },
+                        {
+                            "id": "Lift",
+                            "label": "Elevator",
+                            "icon": "swap--vertical",
+                            "count": 34,
+                            "uniqueId": "amenities_Lift"
+                        },
+                        {
+                            "id": "DisabledFacility",
+                            "label": "Accessible",
+                            "icon": "hotels--disabled-facilities",
+                            "count": 9,
+                            "uniqueId": "amenities_DisabledFacility"
+                        },
+                        {
+                            "id": "InternetAccessService",
+                            "label": "Internet access",
+                            "icon": "globe",
+                            "count": 161,
+                            "uniqueId": "amenities_InternetAccessService"
+                        },
+                        {
+                            "id": "RoomService",
+                            "label": "Room service",
+                            "icon": "services",
+                            "count": 149,
+                            "uniqueId": "amenities_RoomService"
+                        },
+                        {
+                            "id": "OutdoorSwimmingPool",
+                            "label": "Outdoor pool",
+                            "icon": "long-arrow-right",
+                            "count": 145,
+                            "uniqueId": "amenities_OutdoorSwimmingPool"
+                        },
+                        {
+                            "id": "SafeDepositBox",
+                            "label": "Safe deposit box",
+                            "icon": "lock",
+                            "count": 138,
+                            "uniqueId": "amenities_SafeDepositBox"
+                        },
+                        {
+                            "id": "LuggageStorage",
+                            "label": "Luggage storage",
+                            "icon": "luggageall",
+                            "count": 132,
+                            "uniqueId": "amenities_LuggageStorage"
+                        },
+                        {
+                            "id": "Garden",
+                            "label": "Garden",
+                            "icon": "long-arrow-right",
+                            "count": 150,
+                            "uniqueId": "amenities_Garden"
+                        },
+                        {
+                            "id": "FirstAidRoom",
+                            "label": "First-aid room",
+                            "icon": "long-arrow-right",
+                            "count": 131,
+                            "uniqueId": "amenities_FirstAidRoom"
+                        },
+                        {
+                            "id": "WiFiInDesignatedAreas",
+                            "label": "WiFi in common areas",
+                            "icon": "long-arrow-right",
+                            "count": 123,
+                            "uniqueId": "amenities_WiFiInDesignatedAreas"
+                        },
+                        {
+                            "id": "MultilingualStaffService",
+                            "label": "Multilingual staff",
+                            "icon": "long-arrow-right",
+                            "count": 118,
+                            "uniqueId": "amenities_MultilingualStaffService"
+                        },
+                        {
+                            "id": "ConciergeService",
+                            "label": "Concierge",
+                            "icon": "luggageall",
+                            "count": 95,
+                            "uniqueId": "amenities_ConciergeService"
+                        },
+                        {
+                            "id": "CarRental",
+                            "label": "Car rental",
+                            "icon": "cars",
+                            "count": 111,
+                            "uniqueId": "amenities_CarRental"
+                        },
+                        {
+                            "id": "IroningService",
+                            "label": "Iron",
+                            "icon": "cloakroom",
+                            "count": 99,
+                            "uniqueId": "amenities_IroningService"
+                        },
+                        {
+                            "id": "MassageService",
+                            "label": "Massage",
+                            "icon": "long-arrow-right",
+                            "count": 107,
+                            "uniqueId": "amenities_MassageService"
+                        },
+                        {
+                            "id": "Bar",
+                            "label": "Bar",
+                            "icon": "bar",
+                            "count": 74,
+                            "uniqueId": "amenities_Bar"
+                        },
+                        {
+                            "id": "TicketOffice",
+                            "label": "Ticket office",
+                            "icon": "ticket",
+                            "count": 67,
+                            "uniqueId": "amenities_TicketOffice"
+                        },
+                        {
+                            "id": "BicycleRentalService",
+                            "label": "Bicycle rental",
+                            "icon": "long-arrow-right",
+                            "count": 87,
+                            "uniqueId": "amenities_BicycleRentalService"
+                        },
+                        {
+                            "id": "UVSunbeds",
+                            "label": "Tanning beds",
+                            "icon": "long-arrow-right",
+                            "count": 79,
+                            "uniqueId": "amenities_UVSunbeds"
+                        },
+                        {
+                            "id": "TourService",
+                            "label": "Tours",
+                            "icon": "long-arrow-right",
+                            "count": 69,
+                            "uniqueId": "amenities_TourService"
+                        },
+                        {
+                            "id": "Fax",
+                            "label": "Fax",
+                            "icon": "long-arrow-right",
+                            "count": 59,
+                            "uniqueId": "amenities_Fax"
+                        },
+                        {
+                            "id": "BottledWaterService",
+                            "label": "Complimentary bottled water",
+                            "icon": "flask",
+                            "count": 74,
+                            "uniqueId": "amenities_BottledWaterService"
+                        },
+                        {
+                            "id": "Desk",
+                            "label": "Desk",
+                            "icon": "paperclip",
+                            "count": 72,
+                            "uniqueId": "amenities_Desk"
+                        },
+                        {
+                            "id": "ExpressCheckinService",
+                            "label": "Express check-in",
+                            "icon": "fast-track",
+                            "count": 79,
+                            "uniqueId": "amenities_ExpressCheckinService"
+                        },
+                        {
+                            "id": "Shower",
+                            "label": "Shower",
+                            "icon": "onsen",
+                            "count": 81,
+                            "uniqueId": "amenities_Shower"
+                        },
+                        {
+                            "id": "SmokingArea",
+                            "label": "Smoking areas",
+                            "icon": "long-arrow-right",
+                            "count": 69,
+                            "uniqueId": "amenities_SmokingArea"
+                        },
+                        {
+                            "id": "Barbeque",
+                            "label": "Grill",
+                            "icon": "long-arrow-right",
+                            "count": 69,
+                            "uniqueId": "amenities_Barbeque"
+                        },
+                        {
+                            "id": "Telephone",
+                            "label": "Telephone",
+                            "icon": "phone-call",
+                            "count": 55,
+                            "uniqueId": "amenities_Telephone"
+                        },
+                        {
+                            "id": "HairDryer",
+                            "label": "Hairdryer",
+                            "icon": "long-arrow-right",
+                            "count": 66,
+                            "uniqueId": "amenities_HairDryer"
+                        },
+                        {
+                            "id": "Photocopier",
+                            "label": "Photocopier",
+                            "icon": "long-arrow-right",
+                            "count": 45,
+                            "uniqueId": "amenities_Photocopier"
+                        },
+                        {
+                            "id": "ShuttleService",
+                            "label": "Shuttle service",
+                            "icon": "long-arrow-right",
+                            "count": 70,
+                            "uniqueId": "amenities_ShuttleService"
+                        },
+                        {
+                            "id": "WakeUpCallService",
+                            "label": "Wake-up call",
+                            "icon": "call-back",
+                            "count": 53,
+                            "uniqueId": "amenities_WakeUpCallService"
+                        },
+                        {
+                            "id": "CurrencyExchangeService",
+                            "label": "Currency exchange",
+                            "icon": "long-arrow-right",
+                            "count": 52,
+                            "uniqueId": "amenities_CurrencyExchangeService"
+                        },
+                        {
+                            "id": "ExpressCheckoutService",
+                            "label": "Express check-out",
+                            "icon": "fast-track",
+                            "count": 64,
+                            "uniqueId": "amenities_ExpressCheckoutService"
+                        },
+                        {
+                            "id": "MiniBar",
+                            "label": "Minibar",
+                            "icon": "bar",
+                            "count": 46,
+                            "uniqueId": "amenities_MiniBar"
+                        },
+                        {
+                            "id": "Teahouse",
+                            "label": "Teahouse",
+                            "icon": "long-arrow-right",
+                            "count": 48,
+                            "uniqueId": "amenities_Teahouse"
+                        },
+                        {
+                            "id": "SunUmbrella",
+                            "label": "Beach umbrellas",
+                            "icon": "long-arrow-right",
+                            "count": 42,
+                            "uniqueId": "amenities_SunUmbrella"
+                        },
+                        {
+                            "id": "ValetParkingService",
+                            "label": "Valet parking",
+                            "icon": "long-arrow-right",
+                            "count": 37,
+                            "uniqueId": "amenities_ValetParkingService"
+                        },
+                        {
+                            "id": "BathrobeService",
+                            "label": "Bathrobe",
+                            "icon": "adult",
+                            "count": 37,
+                            "uniqueId": "amenities_BathrobeService"
+                        },
+                        {
+                            "id": "IndoorSwimmingPool",
+                            "label": "Indoor pool",
+                            "icon": "long-arrow-right",
+                            "count": 39,
+                            "uniqueId": "amenities_IndoorSwimmingPool"
+                        },
+                        {
+                            "id": "MeetingRoom",
+                            "label": "Meeting facilities",
+                            "icon": "business",
+                            "count": 28,
+                            "uniqueId": "amenities_MeetingRoom"
+                        },
+                        {
+                            "id": "Cafe",
+                            "label": "Café",
+                            "icon": "cafe",
+                            "count": 31,
+                            "uniqueId": "amenities_Cafe"
+                        },
+                        {
+                            "id": "DiningRoom",
+                            "label": "Dining room",
+                            "icon": "long-arrow-right",
+                            "count": 51,
+                            "uniqueId": "amenities_DiningRoom"
+                        },
+                        {
+                            "id": "BanquetingService",
+                            "label": "Banquet service",
+                            "icon": "long-arrow-right",
+                            "count": 22,
+                            "uniqueId": "amenities_BanquetingService"
+                        },
+                        {
+                            "id": "BusinessCenter",
+                            "label": "Business center",
+                            "icon": "long-arrow-right",
+                            "count": 23,
+                            "uniqueId": "amenities_BusinessCenter"
+                        },
+                        {
+                            "id": "TrouserPress",
+                            "label": "Pants press",
+                            "icon": "long-arrow-right",
+                            "count": 26,
+                            "uniqueId": "amenities_TrouserPress"
+                        },
+                        {
+                            "id": "Sauna",
+                            "label": "Sauna",
+                            "icon": "onsen",
+                            "count": 25,
+                            "uniqueId": "amenities_Sauna"
+                        },
+                        {
+                            "id": "WeddingFacility",
+                            "label": "Wedding facilities",
+                            "icon": "long-arrow-right",
+                            "count": 24,
+                            "uniqueId": "amenities_WeddingFacility"
+                        },
+                        {
+                            "id": "BeautySalon",
+                            "label": "Beauty salon",
+                            "icon": "long-arrow-right",
+                            "count": 28,
+                            "uniqueId": "amenities_BeautySalon"
+                        },
+                        {
+                            "id": "LobbyBar",
+                            "label": "Lobby bar",
+                            "icon": "long-arrow-right",
+                            "count": 20,
+                            "uniqueId": "amenities_LobbyBar"
+                        },
+                        {
+                            "id": "SatelliteTV",
+                            "label": "Satellite TV",
+                            "icon": "long-arrow-right",
+                            "count": 29,
+                            "uniqueId": "amenities_SatelliteTV"
+                        },
+                        {
+                            "id": "ChildrenPool",
+                            "label": "Children's Pool",
+                            "icon": "long-arrow-right",
+                            "count": 21,
+                            "uniqueId": "amenities_ChildrenPool"
+                        },
+                        {
+                            "id": "Fireplace",
+                            "label": "Fireplace",
+                            "icon": "long-arrow-right",
+                            "count": 16,
+                            "uniqueId": "amenities_Fireplace"
+                        },
+                        {
+                            "id": "NonsmokingFloor",
+                            "label": "Non-smoking floor",
+                            "icon": "long-arrow-right",
+                            "count": 15,
+                            "uniqueId": "amenities_NonsmokingFloor"
+                        },
+                        {
+                            "id": "DivingService",
+                            "label": "Diving",
+                            "icon": "long-arrow-right",
+                            "count": 31,
+                            "uniqueId": "amenities_DivingService"
+                        },
+                        {
+                            "id": "Microwave",
+                            "label": "Microwave",
+                            "icon": "food",
+                            "count": 30,
+                            "uniqueId": "amenities_Microwave"
+                        },
+                        {
+                            "id": "Library",
+                            "label": "Library",
+                            "icon": "long-arrow-right",
+                            "count": 15,
+                            "uniqueId": "amenities_Library"
+                        },
+                        {
+                            "id": "PoolBar",
+                            "label": "Poolside bar",
+                            "icon": "long-arrow-right",
+                            "count": 13,
+                            "uniqueId": "amenities_PoolBar"
+                        },
+                        {
+                            "id": "HorseRidingService",
+                            "label": "Horseback riding",
+                            "icon": "long-arrow-right",
+                            "count": 22,
+                            "uniqueId": "amenities_HorseRidingService"
+                        },
+                        {
+                            "id": "DoormanService",
+                            "label": "Doorman",
+                            "icon": "long-arrow-right",
+                            "count": 15,
+                            "uniqueId": "amenities_DoormanService"
+                        },
+                        {
+                            "id": "Lounge",
+                            "label": "Lounge",
+                            "icon": "long-arrow-right",
+                            "count": 26,
+                            "uniqueId": "amenities_Lounge"
+                        },
+                        {
+                            "id": "Balcony",
+                            "label": "Balcony",
+                            "icon": "weather",
+                            "count": 24,
+                            "uniqueId": "amenities_Balcony"
+                        },
+                        {
+                            "id": "Nightclub",
+                            "label": "Nightclub",
+                            "icon": "long-arrow-right",
+                            "count": 14,
+                            "uniqueId": "amenities_Nightclub"
+                        },
+                        {
+                            "id": "Snorkeling",
+                            "label": "Snorkeling",
+                            "icon": "long-arrow-right",
+                            "count": 22,
+                            "uniqueId": "amenities_Snorkeling"
+                        },
+                        {
+                            "id": "SunbathingArea",
+                            "label": "Sunbathing area",
+                            "icon": "long-arrow-right",
+                            "count": 9,
+                            "uniqueId": "amenities_SunbathingArea"
+                        },
+                        {
+                            "id": "ChildrenFacility",
+                            "label": "Children's play area",
+                            "icon": "long-arrow-right",
+                            "count": 10,
+                            "uniqueId": "amenities_ChildrenFacility"
+                        },
+                        {
+                            "id": "CoffeeMaker",
+                            "label": "Coffee-maker",
+                            "icon": "long-arrow-right",
+                            "count": 9,
+                            "uniqueId": "amenities_CoffeeMaker"
+                        },
+                        {
+                            "id": "WaterSportsService",
+                            "label": "Watersports",
+                            "icon": "long-arrow-right",
+                            "count": 14,
+                            "uniqueId": "amenities_WaterSportsService"
+                        },
+                        {
+                            "id": "ATM",
+                            "label": "ATM",
+                            "icon": "long-arrow-right",
+                            "count": 7,
+                            "uniqueId": "amenities_ATM"
+                        },
+                        {
+                            "id": "CashMachine",
+                            "label": "ATM",
+                            "icon": "long-arrow-right",
+                            "count": 7,
+                            "uniqueId": "amenities_CashMachine"
+                        },
+                        {
+                            "id": "GameRoom",
+                            "label": "Gameroom",
+                            "icon": "long-arrow-right",
+                            "count": 7,
+                            "uniqueId": "amenities_GameRoom"
+                        },
+                        {
+                            "id": "Billiards",
+                            "label": "Pool Table",
+                            "icon": "long-arrow-right",
+                            "count": 6,
+                            "uniqueId": "amenities_Billiards"
+                        },
+                        {
+                            "id": "SecurityService",
+                            "label": "Security",
+                            "icon": "long-arrow-right",
+                            "count": 7,
+                            "uniqueId": "amenities_SecurityService"
+                        },
+                        {
+                            "id": "StationShuttleService",
+                            "label": "Station shuttle",
+                            "icon": "long-arrow-right",
+                            "count": 5,
+                            "uniqueId": "amenities_StationShuttleService"
+                        },
+                        {
+                            "id": "WheelChairAccess",
+                            "label": "Wheelchair accessible",
+                            "icon": "hotels--disabled-facilities",
+                            "count": 6,
+                            "uniqueId": "amenities_WheelChairAccess"
+                        },
+                        {
+                            "id": "BowlingAlley",
+                            "label": "Bowling alley",
+                            "icon": "long-arrow-right",
+                            "count": 6,
+                            "uniqueId": "amenities_BowlingAlley"
+                        },
+                        {
+                            "id": "Hairdressers",
+                            "label": "Hairdressers",
+                            "icon": "long-arrow-right",
+                            "count": 5,
+                            "uniqueId": "amenities_Hairdressers"
+                        },
+                        {
+                            "id": "Heating",
+                            "label": "Heat",
+                            "icon": "estimated",
+                            "count": 9,
+                            "uniqueId": "amenities_Heating"
+                        },
+                        {
+                            "id": "TableTennis",
+                            "label": "Table tennis",
+                            "icon": "duration",
+                            "count": 3,
+                            "uniqueId": "amenities_TableTennis"
+                        },
+                        {
+                            "id": "PrivateBeach",
+                            "label": "Private beach",
+                            "icon": "long-arrow-right",
+                            "count": 3,
+                            "uniqueId": "amenities_PrivateBeach"
+                        },
+                        {
+                            "id": "TennisCourt",
+                            "label": "Tennis court",
+                            "icon": "long-arrow-right",
+                            "count": 6,
+                            "uniqueId": "amenities_TennisCourt"
+                        },
+                        {
+                            "id": "Shop",
+                            "label": "Shops",
+                            "icon": "long-arrow-right",
+                            "count": 3,
+                            "uniqueId": "amenities_Shop"
+                        },
+                        {
+                            "id": "Playground",
+                            "label": "Playground",
+                            "icon": "long-arrow-right",
+                            "count": 4,
+                            "uniqueId": "amenities_Playground"
+                        },
+                        {
+                            "id": "SteamRoom",
+                            "label": "Steam Room",
+                            "icon": "hotels--jacuzzi",
+                            "count": 3,
+                            "uniqueId": "amenities_SteamRoom"
+                        },
+                        {
+                            "id": "SmokingService",
+                            "label": "Smoking rooms",
+                            "icon": "hotels--smoking",
+                            "count": 4,
+                            "uniqueId": "amenities_SmokingService"
+                        },
+                        {
+                            "id": "Chapel",
+                            "label": "Chapel",
+                            "icon": "long-arrow-right",
+                            "count": 2,
+                            "uniqueId": "amenities_Chapel"
+                        },
+                        {
+                            "id": "GolfAmenity",
+                            "label": "Golf Course",
+                            "icon": "long-arrow-right",
+                            "count": 3,
+                            "uniqueId": "amenities_GolfAmenity"
+                        },
+                        {
+                            "id": "EntertainmentRooms",
+                            "label": "Entertainment rooms",
+                            "icon": "long-arrow-right",
+                            "count": 1,
+                            "uniqueId": "amenities_EntertainmentRooms"
+                        },
+                        {
+                            "id": "HotSpring",
+                            "label": "Hot Spring Bath (Onsen) ",
+                            "icon": "long-arrow-right",
+                            "count": 2,
+                            "uniqueId": "amenities_HotSpring"
+                        },
+                        {
+                            "id": "ExecutiveFloor",
+                            "label": "Executive floor",
+                            "icon": "long-arrow-right",
+                            "count": 1,
+                            "uniqueId": "amenities_ExecutiveFloor"
+                        },
+                        {
+                            "id": "ConnectingRoomsService",
+                            "label": "Connecting rooms",
+                            "icon": "long-arrow-right",
+                            "count": 2,
+                            "uniqueId": "amenities_ConnectingRoomsService"
+                        },
+                        {
+                            "id": "SkiStorage",
+                            "label": "Ski storage",
+                            "icon": "long-arrow-right",
+                            "count": 2,
+                            "uniqueId": "amenities_SkiStorage"
+                        },
+                        {
+                            "id": "ExecutiveLounge",
+                            "label": "Executive lounge",
+                            "icon": "long-arrow-right",
+                            "count": 1,
+                            "uniqueId": "amenities_ExecutiveLounge"
+                        },
+                        {
+                            "id": "DVDVideoPlayer",
+                            "label": "DVD / Video player",
+                            "icon": "media",
+                            "count": 1,
+                            "uniqueId": "amenities_DVDVideoPlayer"
+                        },
+                        {
+                            "id": "Jacuzzi",
+                            "label": "Hot tub",
+                            "icon": "long-arrow-right",
+                            "count": 1,
+                            "uniqueId": "amenities_Jacuzzi"
+                        },
+                        {
+                            "id": "SquashCourt",
+                            "label": "Squash",
+                            "icon": "long-arrow-right",
+                            "count": 1,
+                            "uniqueId": "amenities_SquashCourt"
+                        },
+                        {
+                            "id": "TouristInformationOffice",
+                            "label": "Tourist information",
+                            "icon": "information",
+                            "count": 1,
+                            "uniqueId": "amenities_TouristInformationOffice"
+                        }
+                    ]
+                },
+                {
+                    "type": "property_type",
+                    "title": "Accommodation type",
+                    "values": [
+                        {
+                            "id": "Hotel",
+                            "label": "Hotel",
+                            "count": 73,
+                            "uniqueId": "property_type_Hotel"
+                        },
+                        {
+                            "id": "ResidenceHotel",
+                            "label": "Residence",
+                            "count": 0,
+                            "uniqueId": "property_type_ResidenceHotel"
+                        },
+                        {
+                            "id": "Hostel",
+                            "label": "Hostel",
+                            "count": 0,
+                            "uniqueId": "property_type_Hostel"
+                        },
+                        {
+                            "id": "GuestHouse",
+                            "label": "Guest House",
+                            "count": 10,
+                            "uniqueId": "property_type_GuestHouse"
+                        },
+                        {
+                            "id": "PrivateHome",
+                            "label": "Private home",
+                            "count": 0,
+                            "uniqueId": "property_type_PrivateHome"
+                        },
+                        {
+                            "id": "CountryHouse",
+                            "label": "Country House",
+                            "count": 0,
+                            "uniqueId": "property_type_CountryHouse"
+                        },
+                        {
+                            "id": "TemporaryResidence",
+                            "label": "TemporaryResidence",
+                            "count": 0,
+                            "uniqueId": "property_type_TemporaryResidence"
+                        },
+                        {
+                            "id": "Resort",
+                            "label": "Resort",
+                            "count": 7,
+                            "uniqueId": "property_type_Resort"
+                        },
+                        {
+                            "id": "UniqueStays",
+                            "label": "Unique stays",
+                            "count": 1,
+                            "uniqueId": "property_type_UniqueStays"
+                        },
+                        {
+                            "id": "HolidayRentals",
+                            "label": "Vacation rentals",
+                            "count": 105,
+                            "uniqueId": "property_type_HolidayRentals"
+                        },
+                        {
+                            "id": "Apartment",
+                            "label": "Apartment",
+                            "count": 13,
+                            "uniqueId": "property_type_Apartment"
+                        }
+                    ]
+                },
+                {
+                    "type": "poi",
+                    "title": "Distance",
+                    "values": [
+                        {
+                            "poiType": "Landmark",
+                            "poiName": "Landmark",
+                            "poiOptions": [
+                                {
+                                    "id": 206567436,
+                                    "name": "Seminyak Beach",
+                                    "type": "Landmark",
+                                    "coordinate": [
+                                        115.1571413,
+                                        -8.691193
+                                    ],
+                                    "image": "https://content.skyscnr.com/POI/206567436/2870471/2870471_WxH.jpg",
+                                    "subType": "TouristAttraction"
+                                },
+                                {
+                                    "id": 206590775,
+                                    "name": "Chill Reflexology",
+                                    "type": "Landmark",
+                                    "coordinate": [
+                                        115.169235,
+                                        -8.688456
+                                    ],
+                                    "image": null,
+                                    "subType": "TouristAttraction"
+                                },
+                                {
+                                    "id": 210883489,
+                                    "name": "BRI KCP Seminyak",
+                                    "type": "Landmark",
+                                    "coordinate": [
+                                        115.1724384,
+                                        -8.690223
+                                    ],
+                                    "image": null,
+                                    "subType": "ModernArchitecture"
+                                },
+                                {
+                                    "id": 207144388,
+                                    "name": "Nyaman Villas",
+                                    "type": "Landmark",
+                                    "coordinate": [
+                                        115.1589411,
+                                        -8.6862862
+                                    ],
+                                    "image": null,
+                                    "subType": "TouristAttraction"
+                                },
+                                {
+                                    "id": 207164766,
+                                    "name": "Archipelago International - Bali Office",
+                                    "type": "Landmark",
+                                    "coordinate": [
+                                        115.1753127,
+                                        -8.6942111
+                                    ],
+                                    "image": null,
+                                    "subType": "TouristAttraction"
+                                },
+                                {
+                                    "id": 207168685,
+                                    "name": "Villa Bisi , 3 bedroom Villa in Central Seminyak",
+                                    "type": "Landmark",
+                                    "coordinate": [
+                                        115.167678,
+                                        -8.696142
+                                    ],
+                                    "image": null,
+                                    "subType": "TouristAttraction"
+                                },
+                                {
+                                    "id": 207178537,
+                                    "name": "Shanti Retreat Bali",
+                                    "type": "Landmark",
+                                    "coordinate": [
+                                        115.1647033,
+                                        -8.684285299999999
+                                    ],
+                                    "image": null,
+                                    "subType": "TouristAttraction"
+                                },
+                                {
+                                    "id": 207178591,
+                                    "name": "Villa Kalimaya",
+                                    "type": "Landmark",
+                                    "coordinate": [
+                                        115.154574,
+                                        -8.683418
+                                    ],
+                                    "image": null,
+                                    "subType": "TouristAttraction"
+                                },
+                                {
+                                    "id": 207361839,
+                                    "name": "St Michael's Protestant Church",
+                                    "type": "Landmark",
+                                    "coordinate": [
+                                        115.1617507935,
+                                        -8.6922397614
+                                    ],
+                                    "image": null,
+                                    "subType": "TouristAttraction"
+                                }
+                            ]
+                        },
+                        {
+                            "poiType": "Shopping",
+                            "poiName": "Shopping",
+                            "poiOptions": [
+                                {
+                                    "id": 208346593,
+                                    "name": "Seminyak Square",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.1571397,
+                                        -8.6838546
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 208346602,
+                                    "name": "Seminyak Village",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.157134,
+                                        -8.6833565
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 208349449,
+                                    "name": "Folkart Gallery Bali",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.15606,
+                                        -8.6857
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 211874680,
+                                    "name": "Reservoart Galleries",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.1678662,
+                                        -8.6906544
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 210893336,
+                                    "name": "Yamaha Semangat",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.1710379,
+                                        -8.6879382
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 208349340,
+                                    "name": "Skull Bali",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.167015,
+                                        -8.686579
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 208342847,
+                                    "name": "Supermarket Bintang Seminyak",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.168056,
+                                        -8.694239
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 208346666,
+                                    "name": "Karmen & Marius",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.16547,
+                                        -8.69099
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 212191343,
+                                    "name": "Samantha Robinson Handmade",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.15704,
+                                        -8.682777
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 208346668,
+                                    "name": "Nyaman Gallery",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.1668059,
+                                        -8.6844527
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 212112529,
+                                    "name": "Dashin 4 Fashion",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.1722247,
+                                        -8.6961092
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 208349429,
+                                    "name": "Gingersnap Store",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.163,
+                                        -8.6838
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 208346646,
+                                    "name": "Positive Negative Visual Gallery",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.1666,
+                                        -8.69703
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 211681543,
+                                    "name": "Gingersnap Store",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.162857,
+                                        -8.683048
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 211756960,
+                                    "name": "Blu Born in Italy",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.154625,
+                                        -8.6854
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 211765748,
+                                    "name": "Tango Jewellery",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.168617,
+                                        -8.684406
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 211830967,
+                                    "name": "Inni Kulit",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.1666749,
+                                        -8.6835235
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 211673495,
+                                    "name": "Lilla Lane",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.1567826,
+                                        -8.6836474
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 212110726,
+                                    "name": "Nacivet Art Gallery",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.1626957,
+                                        -8.6917821
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                },
+                                {
+                                    "id": 214608705,
+                                    "name": "Skin - Post Atomic Wear",
+                                    "type": "Shopping",
+                                    "coordinate": [
+                                        115.1621853,
+                                        -8.684065799999999
+                                    ],
+                                    "image": null,
+                                    "subType": "ShoppingMall"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discount_types",
+                    "title": "Deals",
+                    "values": [
+                        {
+                            "id": "cug",
+                            "count": 74,
+                            "label": "Show discounts",
+                            "uniqueId": "discount_types_cug"
+                        }
+                    ]
+                }
+            ],
+            "hotelsCoordinates": [
+                {
+                    "id": "213273690",
+                    "latitude": -8.691986,
+                    "longitude": 115.178338,
+                    "price": "$13"
+                },
+                {
+                    "id": "160800601",
+                    "latitude": -8.6922,
+                    "longitude": 115.167988,
+                    "price": "$16"
+                },
+                {
+                    "id": "213922295",
+                    "latitude": -8.688445,
+                    "longitude": 115.169936,
+                    "price": "$16"
+                },
+                {
+                    "id": "136300765",
+                    "latitude": -8.688201,
+                    "longitude": 115.171283,
+                    "price": "$18"
+                },
+                {
+                    "id": "137559116",
+                    "latitude": -8.682857,
+                    "longitude": 115.167202,
+                    "price": "$17"
+                },
+                {
+                    "id": "131190871",
+                    "latitude": -8.695049,
+                    "longitude": 115.167135,
+                    "price": "$20"
+                },
+                {
+                    "id": "129229016",
+                    "latitude": -8.6895168,
+                    "longitude": 115.1638091,
+                    "price": "$32"
+                },
+                {
+                    "id": "105156653",
+                    "latitude": -8.696628,
+                    "longitude": 115.166111,
+                    "price": "$32"
+                },
+                {
+                    "id": "203951988",
+                    "latitude": -8.696621,
+                    "longitude": 115.163948,
+                    "price": "$36"
+                },
+                {
+                    "id": "187691206",
+                    "latitude": -8.684273,
+                    "longitude": 115.158936,
+                    "price": "$52"
+                },
+                {
+                    "id": "116282151",
+                    "latitude": -8.696279,
+                    "longitude": 115.170193,
+                    "price": "$50"
+                },
+                {
+                    "id": "158452086",
+                    "latitude": -8.684285,
+                    "longitude": 115.160529,
+                    "price": "$55"
+                },
+                {
+                    "id": "213042004",
+                    "latitude": -8.697222,
+                    "longitude": 115.170952,
+                    "price": "$83"
+                },
+                {
+                    "id": "47184798",
+                    "latitude": -8.684271,
+                    "longitude": 115.15927,
+                    "price": "$94"
+                },
+                {
+                    "id": "154614691",
+                    "latitude": -8.687645,
+                    "longitude": 115.176845,
+                    "price": "$101"
+                }
+            ],
+            "sortOptions": [
+                {
+                    "optionName": "Best",
+                    "type": "-relevance"
+                },
+                {
+                    "optionName": "Price (high to low)",
+                    "type": "-price"
+                },
+                {
+                    "optionName": "Price (low to high)",
+                    "type": "price"
+                },
+                {
+                    "optionName": "Distance from downtown",
+                    "type": "distance"
+                },
+                {
+                    "optionName": "Guest rating",
+                    "type": "-rating"
+                },
+                {
+                    "optionName": "Stars (5 to 1)",
+                    "type": "-stars"
+                },
+                {
+                    "optionName": "Stars (1 to 5)",
+                    "type": "stars"
+                }
+            ],
+            "travelInfos": [],
+            "partnerList": [
+                "Booking.com",
+                "Trip.com",
+                "Hotels.com",
+                "Hyatt",
+                "Expedia",
+                "IHG"
+            ]
+        },
+        "status": {
+            "completionPercentage": 100,
+            "searchId": "b8227e5bfe7eee29431eda90027f6394d9acff6b41c52ab4db97d518b286b8bc",
+            "requestId": "71322086-96be-4e64-8108-d74759ac593b",
+            "fastSearchStatus": "COMPLETED",
+            "finalStatus": "COMPLETED"
+        },
+        "error": null,
+        "correlationId": "d0c244f2-6afc-48f6-9a69-14d23ca487b9"
+    },
+    "meta": {
+        "currentPage": 1,
+        "limit": 15,
+        "totalRecords": 209,
+        "totalPage": 14
+    },
+    "status": true,
+    "message": "Successful"
+}
